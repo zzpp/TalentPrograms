@@ -57,12 +57,12 @@ Solving for Yinit (e.g. Y with 1970 taus but the 1960 state)
 ...... 
 Decade Baseline    Yinit  GrowthY   gIYwkr    gILFP   gIearn gearnAll   gIcons   gGapWW   gGapBM   gGapBW gGpAllWW gGpAllBM gGpAllBW  gEarnWM  gEarnWW  gEarnBM  gEarnBW
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  1960     4539     4467   0.9840   1.0684   0.9210   0.7462   0.7830   0.7923   0.7817   1.0911   1.2080   0.7259   0.9993   1.1081   0.9914   0.6937   0.9875   1.1021
-  1970     9053     8766   0.9683   1.0247   0.9450   0.7901   0.8194   0.8076   0.8119   0.8644   1.1366   0.7708   0.7529   1.1216   0.9971   0.7472   0.7097   1.1429
-  1980    11524    10803   0.9375   1.0255   0.9142   0.6306   0.6743   0.5923   0.6171   0.7080   0.9675   0.5781   0.6258   0.8994   0.9945   0.5422   0.5625   0.8511
-  1990    18575    17934   0.9655   0.9747   0.9906   0.9348   0.9409   0.9617   0.9152   0.9767   0.9921   0.9078   0.9683   0.9818   1.0004   0.9024   0.9678   0.9765
-  2000    23413    22560   0.9636   0.9696   0.9938   0.9496   0.9553   0.9686   0.9286   0.9786   1.0055   0.9210   0.9787   1.0017   1.0036   0.9171   0.9813   1.0065
-  2010    26681      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
+  1960     4504     4432   0.9841   1.0686   0.9209   0.7467   0.7836   0.7911   0.7828   1.0924   1.2091   0.7268   1.0003   1.1159   0.9914   0.6948   0.9888   1.1145
+  1970     8450     8149   0.9643   1.0260   0.9399   0.7851   0.8171   0.8044   0.8113   0.8653   1.1406   0.7683   0.7507   1.1197   0.9970   0.7432   0.7051   1.1430
+  1980    11457    10781   0.9410   1.0202   0.9224   0.6339   0.6741   0.5923   0.6134   0.6992   0.9475   0.5790   0.6254   0.8812   0.9953   0.5477   0.5684   0.8334
+  1990    18274    17676   0.9673   0.9765   0.9905   0.9346   0.9415   0.9614   0.9156   0.9811   1.0029   0.9075   0.9740   1.0040   1.0000   0.9013   0.9750   1.0030
+  2000    23490    22653   0.9644   0.9705   0.9937   0.9504   0.9558   0.9685   0.9297   0.9802   1.0064   0.9224   0.9744   1.0008   1.0035   0.9192   0.9754   1.0034
+  2010    26782      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
  
 Solving for Yfinal (e.g. Y with 1960 taus but the 1970 state) 
 ...... 
@@ -72,12 +72,12 @@ Solving for Yfinal (e.g. Y with 1960 taus but the 1970 state)
 ...... 
 Decade Baseline   Yfinal  GrowthY   gFYwkr    gFlfp   gFearn gearnAll   gFcons   gGapWW   gGapBM   gGapBW gGpAllWW gGpAllBM gGpAllBW  gEarnWM  gEarnWW  gEarnBM  gEarnBW
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  1960     4539      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
-  1970     9053     9036   1.0019   1.0379   0.9653   0.6937   0.7206   0.6358   0.6815   0.8503   1.0441   0.6664   0.8347   1.0024   0.9941   0.6473   0.8064   0.9631
-  1980    11524    11638   0.9901   1.0162   0.9744   0.7682   0.7877   0.7374   0.7567   0.7682   1.0991   0.7397   0.7224   1.1059   0.9980   0.7265   0.6898   1.1190
-  1990    18575    19733   0.9413   0.9932   0.9478   0.5947   0.6207   0.5384   0.5406   0.6409   0.9243   0.5226   0.5787   0.8706   0.9961   0.5039   0.5298   0.8311
-  2000    23413    24368   0.9608   0.9733   0.9872   0.9268   0.9349   0.9517   0.9086   0.9756   0.9873   0.8983   0.9568   0.9693   1.0007   0.8906   0.9543   0.9628
-  2010    26681    27963   0.9541   0.9660   0.9877   0.9340   0.9424   0.9521   0.9116   0.9557   0.9843   0.9001   0.9445   0.9702   1.0041   0.8923   0.9405   0.9706
+  1960     4504      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
+  1970     8450     8437   1.0015   1.0393   0.9637   0.6916   0.7205   0.6360   0.6819   0.8517   1.0553   0.6667   0.8361   1.0153   0.9937   0.6466   0.8064   0.9792
+  1980    11457    11570   0.9903   1.0135   0.9770   0.7674   0.7854   0.7367   0.7530   0.7609   1.0894   0.7377   0.7193   1.0939   0.9981   0.7261   0.6901   1.1042
+  1990    18274    19465   0.9388   0.9963   0.9423   0.5915   0.6214   0.5357   0.5425   0.6446   0.9165   0.5238   0.5794   0.8541   0.9959   0.5034   0.5266   0.8089
+  2000    23490    24400   0.9627   0.9738   0.9886   0.9272   0.9351   0.9519   0.9064   0.9768   0.9996   0.8972   0.9616   0.9883   1.0006   0.8898   0.9593   0.9856
+  2010    26782    28063   0.9544   0.9660   0.9879   0.9343   0.9425   0.9519   0.9112   0.9555   0.9878   0.9009   0.9391   0.9689   1.0042   0.8942   0.9315   0.9660
  
 Here are the growth factors, Laspeyeres, Paasche, and GeoAvg:
  
@@ -85,262 +85,262 @@ GDP per person
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9840  1.0019  0.9929
- 1970 1980  0.9683  0.9901  0.9792
- 1980 1990  0.9375  0.9413  0.9394
- 1990 2000  0.9655  0.9608  0.9632
- 2000 2010  0.9636  0.9541  0.9588
+ 1960 1970  0.9841  1.0015  0.9928
+ 1970 1980  0.9643  0.9903  0.9772
+ 1980 1990  0.9410  0.9388  0.9399
+ 1990 2000  0.9673  0.9627  0.9650
+ 2000 2010  0.9644  0.9544  0.9594
  
 GDP per worker
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0684  1.0379  1.0531
- 1970 1980  1.0247  1.0162  1.0204
- 1980 1990  1.0255  0.9932  1.0092
- 1990 2000  0.9747  0.9733  0.9740
- 2000 2010  0.9696  0.9660  0.9678
+ 1960 1970  1.0686  1.0393  1.0538
+ 1970 1980  1.0260  1.0135  1.0197
+ 1980 1990  1.0202  0.9963  1.0082
+ 1990 2000  0.9765  0.9738  0.9752
+ 2000 2010  0.9705  0.9660  0.9682
  
 Labor Force Participation (LFP)
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9210  0.9653  0.9429
- 1970 1980  0.9450  0.9744  0.9596
- 1980 1990  0.9142  0.9478  0.9308
- 1990 2000  0.9906  0.9872  0.9889
- 2000 2010  0.9938  0.9877  0.9907
+ 1960 1970  0.9209  0.9637  0.9420
+ 1970 1980  0.9399  0.9770  0.9583
+ 1980 1990  0.9224  0.9423  0.9323
+ 1990 2000  0.9905  0.9886  0.9895
+ 2000 2010  0.9937  0.9879  0.9908
  
 Earnings
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7462  0.6937  0.7195
- 1970 1980  0.7901  0.7682  0.7791
- 1980 1990  0.6306  0.5947  0.6123
- 1990 2000  0.9348  0.9268  0.9308
- 2000 2010  0.9496  0.9340  0.9418
+ 1960 1970  0.7467  0.6916  0.7187
+ 1970 1980  0.7851  0.7674  0.7762
+ 1980 1990  0.6339  0.5915  0.6123
+ 1990 2000  0.9346  0.9272  0.9309
+ 2000 2010  0.9504  0.9343  0.9423
  
 EarningsAll
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7830  0.7206  0.7512
- 1970 1980  0.8194  0.7877  0.8034
- 1980 1990  0.6743  0.6207  0.6470
- 1990 2000  0.9409  0.9349  0.9379
- 2000 2010  0.9553  0.9424  0.9489
+ 1960 1970  0.7836  0.7205  0.7514
+ 1970 1980  0.8171  0.7854  0.8011
+ 1980 1990  0.6741  0.6214  0.6472
+ 1990 2000  0.9415  0.9351  0.9383
+ 2000 2010  0.9558  0.9425  0.9491
  
 ConsumpYoung (market)
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7923  0.6358  0.7097
- 1970 1980  0.8076  0.7374  0.7717
- 1980 1990  0.5923  0.5384  0.5647
- 1990 2000  0.9617  0.9517  0.9567
- 2000 2010  0.9686  0.9521  0.9603
+ 1960 1970  0.7911  0.6360  0.7093
+ 1970 1980  0.8044  0.7367  0.7698
+ 1980 1990  0.5923  0.5357  0.5633
+ 1990 2000  0.9614  0.9519  0.9566
+ 2000 2010  0.9685  0.9519  0.9602
  
 WageGapWW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7817  0.6815  0.7299
- 1970 1980  0.8119  0.7567  0.7838
- 1980 1990  0.6171  0.5406  0.5776
- 1990 2000  0.9152  0.9086  0.9119
- 2000 2010  0.9286  0.9116  0.9201
+ 1960 1970  0.7828  0.6819  0.7306
+ 1970 1980  0.8113  0.7530  0.7816
+ 1980 1990  0.6134  0.5425  0.5769
+ 1990 2000  0.9156  0.9064  0.9110
+ 2000 2010  0.9297  0.9112  0.9204
  
 WageGapBM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0911  0.8503  0.9632
- 1970 1980  0.8644  0.7682  0.8149
- 1980 1990  0.7080  0.6409  0.6736
- 1990 2000  0.9767  0.9756  0.9761
- 2000 2010  0.9786  0.9557  0.9671
+ 1960 1970  1.0924  0.8517  0.9646
+ 1970 1980  0.8653  0.7609  0.8114
+ 1980 1990  0.6992  0.6446  0.6713
+ 1990 2000  0.9811  0.9768  0.9789
+ 2000 2010  0.9802  0.9555  0.9678
  
 WageGapBW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.2080  1.0441  1.1231
- 1970 1980  1.1366  1.0991  1.1177
- 1980 1990  0.9675  0.9243  0.9456
- 1990 2000  0.9921  0.9873  0.9897
- 2000 2010  1.0055  0.9843  0.9948
+ 1960 1970  1.2091  1.0553  1.1296
+ 1970 1980  1.1406  1.0894  1.1147
+ 1980 1990  0.9475  0.9165  0.9319
+ 1990 2000  1.0029  0.9996  1.0012
+ 2000 2010  1.0064  0.9878  0.9971
  
 WageGapAllWW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7259  0.6664  0.6955
- 1970 1980  0.7708  0.7397  0.7551
- 1980 1990  0.5781  0.5226  0.5497
- 1990 2000  0.9078  0.8983  0.9031
- 2000 2010  0.9210  0.9001  0.9105
+ 1960 1970  0.7268  0.6667  0.6961
+ 1970 1980  0.7683  0.7377  0.7529
+ 1980 1990  0.5790  0.5238  0.5507
+ 1990 2000  0.9075  0.8972  0.9024
+ 2000 2010  0.9224  0.9009  0.9116
  
 WageGapAllBM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9993  0.8347  0.9133
- 1970 1980  0.7529  0.7224  0.7375
- 1980 1990  0.6258  0.5787  0.6018
- 1990 2000  0.9683  0.9568  0.9625
- 2000 2010  0.9787  0.9445  0.9615
+ 1960 1970  1.0003  0.8361  0.9145
+ 1970 1980  0.7507  0.7193  0.7348
+ 1980 1990  0.6254  0.5794  0.6020
+ 1990 2000  0.9740  0.9616  0.9678
+ 2000 2010  0.9744  0.9391  0.9566
  
 WageGapAllBW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.1081  1.0024  1.0539
- 1970 1980  1.1216  1.1059  1.1137
- 1980 1990  0.8994  0.8706  0.8849
- 1990 2000  0.9818  0.9693  0.9755
- 2000 2010  1.0017  0.9702  0.9858
+ 1960 1970  1.1159  1.0153  1.0644
+ 1970 1980  1.1197  1.0939  1.1067
+ 1980 1990  0.8812  0.8541  0.8675
+ 1990 2000  1.0040  0.9883  0.9961
+ 2000 2010  1.0008  0.9689  0.9847
  
 EarningsWM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9914  0.9941  0.9927
- 1970 1980  0.9971  0.9980  0.9975
- 1980 1990  0.9945  0.9961  0.9953
- 1990 2000  1.0004  1.0007  1.0005
- 2000 2010  1.0036  1.0041  1.0038
+ 1960 1970  0.9914  0.9937  0.9926
+ 1970 1980  0.9970  0.9981  0.9976
+ 1980 1990  0.9953  0.9959  0.9956
+ 1990 2000  1.0000  1.0006  1.0003
+ 2000 2010  1.0035  1.0042  1.0039
  
 EarningsWW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.6937  0.6473  0.6701
- 1970 1980  0.7472  0.7265  0.7368
- 1980 1990  0.5422  0.5039  0.5227
- 1990 2000  0.9024  0.8906  0.8965
- 2000 2010  0.9171  0.8923  0.9046
+ 1960 1970  0.6948  0.6466  0.6703
+ 1970 1980  0.7432  0.7261  0.7346
+ 1980 1990  0.5477  0.5034  0.5251
+ 1990 2000  0.9013  0.8898  0.8955
+ 2000 2010  0.9192  0.8942  0.9066
  
 EarningsBM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9875  0.8064  0.8923
- 1970 1980  0.7097  0.6898  0.6997
- 1980 1990  0.5625  0.5298  0.5459
- 1990 2000  0.9678  0.9543  0.9611
- 2000 2010  0.9813  0.9405  0.9607
+ 1960 1970  0.9888  0.8064  0.8929
+ 1970 1980  0.7051  0.6901  0.6976
+ 1980 1990  0.5684  0.5266  0.5471
+ 1990 2000  0.9750  0.9593  0.9671
+ 2000 2010  0.9754  0.9315  0.9532
  
 EarningsBW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.1021  0.9631  1.0303
- 1970 1980  1.1429  1.1190  1.1309
- 1980 1990  0.8511  0.8311  0.8410
- 1990 2000  0.9765  0.9628  0.9697
- 2000 2010  1.0065  0.9706  0.9884
+ 1960 1970  1.1145  0.9792  1.0446
+ 1970 1980  1.1430  1.1042  1.1235
+ 1980 1990  0.8334  0.8089  0.8211
+ 1990 2000  1.0030  0.9856  0.9943
+ 2000 2010  1.0034  0.9660  0.9845
  
 Cumulative growth from changes:
-GDP per person =   0.8435
-GDP per worker =   1.0223
-Labor Force Participation (LFP) =   0.8251
-Earnings =   0.3009
-EarningsAll =   0.3475
-ConsumpYoung (market) =   0.2841
-WageGapWW =   0.2772
-WageGapBM =   0.4991
-WageGapBW =   1.1688
-WageGapAllWW =   0.2373
-WageGapAllBM =   0.3751
-WageGapAllBW =   0.9988
+GDP per person =   0.8442
+GDP per worker =   1.0230
+Labor Force Participation (LFP) =   0.8252
+Earnings =   0.2996
+EarningsAll =   0.3469
+ConsumpYoung (market) =   0.2825
+WageGapWW =   0.2762
+WageGapBM =   0.4978
+WageGapBW =   1.1714
+WageGapAllWW =   0.2374
+WageGapAllBM =   0.3745
+WageGapAllBW =   1.0025
 EarningsWM =   0.9899
-EarningsWW =   0.2093
-EarningsBM =   0.3147
-EarningsBW =   0.9391
+EarningsWW =   0.2099
+EarningsBM =   0.3142
+EarningsBW =   0.9433
  
  
 ///////////////////////////// KEY RESULT //////////////////////////////
  
 GDP per person
-      Average annual growth of baseline (model) measure:   3.5424
-        Average annual growth due to changing TauWTauH      :  -0.3405
-                         >>>>>   Share accounted for by TauWTauH is   -9.6 percent  <<<<<
+      Average annual growth of baseline (model) measure:   3.5654
+        Average annual growth due to changing TauWTauH      :  -0.3388
+                         >>>>>   Share accounted for by TauWTauH is   -9.5 percent  <<<<<
  
 GDP per worker
-      Average annual growth of baseline (model) measure:   3.1832
-        Average annual growth due to changing TauWTauH      :   0.0441
+      Average annual growth of baseline (model) measure:   3.1650
+        Average annual growth due to changing TauWTauH      :   0.0455
                          >>>>>   Share accounted for by TauWTauH is    1.4 percent  <<<<<
  
 Labor Force Participation (LFP)
-      Average annual growth of baseline (model) measure:   0.3592
-        Average annual growth due to changing TauWTauH      :  -0.3846
-                         >>>>>   Share accounted for by TauWTauH is -107.1 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.4004
+        Average annual growth due to changing TauWTauH      :  -0.3843
+                         >>>>>   Share accounted for by TauWTauH is  -96.0 percent  <<<<<
  
 Earnings
-      Average annual growth of baseline (model) measure:   1.7202
-        Average annual growth due to changing TauWTauH      :  -2.4021
-                         >>>>>   Share accounted for by TauWTauH is -139.6 percent  <<<<<
+      Average annual growth of baseline (model) measure:   1.7370
+        Average annual growth due to changing TauWTauH      :  -2.4104
+                         >>>>>   Share accounted for by TauWTauH is -138.8 percent  <<<<<
  
 EarningsAll
-      Average annual growth of baseline (model) measure:   1.7572
-        Average annual growth due to changing TauWTauH      :  -2.1142
+      Average annual growth of baseline (model) measure:   1.7603
+        Average annual growth due to changing TauWTauH      :  -2.1173
                          >>>>>   Share accounted for by TauWTauH is -120.3 percent  <<<<<
  
 ConsumpYoung (market)
-      Average annual growth of baseline (model) measure:   2.1704
-        Average annual growth due to changing TauWTauH      :  -2.5166
-                         >>>>>   Share accounted for by TauWTauH is -115.9 percent  <<<<<
+      Average annual growth of baseline (model) measure:   2.3735
+        Average annual growth due to changing TauWTauH      :  -2.5281
+                         >>>>>   Share accounted for by TauWTauH is -106.5 percent  <<<<<
  
 WageGapWW
-      Average annual growth of baseline (model) measure:  -1.2549
-        Average annual growth due to changing TauWTauH      :  -2.5658
-                         >>>>>   Share accounted for by TauWTauH is  204.5 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -1.2219
+        Average annual growth due to changing TauWTauH      :  -2.5732
+                         >>>>>   Share accounted for by TauWTauH is  210.6 percent  <<<<<
  
 WageGapBM
-      Average annual growth of baseline (model) measure:  -0.2792
-        Average annual growth due to changing TauWTauH      :  -1.3898
-                         >>>>>   Share accounted for by TauWTauH is  497.7 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -0.2629
+        Average annual growth due to changing TauWTauH      :  -1.3952
+                         >>>>>   Share accounted for by TauWTauH is  530.6 percent  <<<<<
  
 WageGapBW
-      Average annual growth of baseline (model) measure:   0.6685
-        Average annual growth due to changing TauWTauH      :   0.3119
-                         >>>>>   Share accounted for by TauWTauH is   46.6 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.6777
+        Average annual growth due to changing TauWTauH      :   0.3165
+                         >>>>>   Share accounted for by TauWTauH is   46.7 percent  <<<<<
  
 WageGapAllWW
-      Average annual growth of baseline (model) measure:  -2.3039
-        Average annual growth due to changing TauWTauH      :  -2.8765
-                         >>>>>   Share accounted for by TauWTauH is  124.8 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -2.3143
+        Average annual growth due to changing TauWTauH      :  -2.8762
+                         >>>>>   Share accounted for by TauWTauH is  124.3 percent  <<<<<
  
 WageGapAllBM
-      Average annual growth of baseline (model) measure:  -1.5297
-        Average annual growth due to changing TauWTauH      :  -1.9609
-                         >>>>>   Share accounted for by TauWTauH is  128.2 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -1.5440
+        Average annual growth due to changing TauWTauH      :  -1.9643
+                         >>>>>   Share accounted for by TauWTauH is  127.2 percent  <<<<<
  
 WageGapAllBW
-      Average annual growth of baseline (model) measure:   0.3523
-        Average annual growth due to changing TauWTauH      :  -0.0024
-                         >>>>>   Share accounted for by TauWTauH is   -0.7 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.3370
+        Average annual growth due to changing TauWTauH      :   0.0050
+                         >>>>>   Share accounted for by TauWTauH is    1.5 percent  <<<<<
  
 EarningsWM
-      Average annual growth of baseline (model) measure:   3.6683
-        Average annual growth due to changing TauWTauH      :  -0.0204
+      Average annual growth of baseline (model) measure:   3.6970
+        Average annual growth due to changing TauWTauH      :  -0.0203
                          >>>>>   Share accounted for by TauWTauH is   -0.6 percent  <<<<<
  
 EarningsWW
-      Average annual growth of baseline (model) measure:   0.9352
-        Average annual growth due to changing TauWTauH      :  -3.1281
-                         >>>>>   Share accounted for by TauWTauH is -334.5 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.9561
+        Average annual growth due to changing TauWTauH      :  -3.1220
+                         >>>>>   Share accounted for by TauWTauH is -326.5 percent  <<<<<
  
 EarningsBM
-      Average annual growth of baseline (model) measure:   2.5447
-        Average annual growth due to changing TauWTauH      :  -2.3123
-                         >>>>>   Share accounted for by TauWTauH is  -90.9 percent  <<<<<
+      Average annual growth of baseline (model) measure:   2.5644
+        Average annual growth due to changing TauWTauH      :  -2.3156
+                         >>>>>   Share accounted for by TauWTauH is  -90.3 percent  <<<<<
  
 EarningsBW
-      Average annual growth of baseline (model) measure:   4.8063
-        Average annual growth due to changing TauWTauH      :  -0.1257
-                         >>>>>   Share accounted for by TauWTauH is   -2.6 percent  <<<<<
+      Average annual growth of baseline (model) measure:   4.8362
+        Average annual growth due to changing TauWTauH      :  -0.1168
+                         >>>>>   Share accounted for by TauWTauH is   -2.4 percent  <<<<<
  
  
 ---------------------------------------------------
@@ -354,12 +354,12 @@ Solving for Yinit (e.g. Y with 1970 taus but the 1960 state)
 ...... 
 Decade Baseline    Yinit  GrowthY   gIYwkr    gILFP   gIearn gearnAll   gIcons   gGapWW   gGapBM   gGapBW gGpAllWW gGpAllBM gGpAllBW  gEarnWM  gEarnWW  gEarnBM  gEarnBW
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  1960     4539     4561   1.0048   1.0050   0.9998   1.0021   1.0022   1.0044   1.0022   1.0103   1.0379   1.0024   1.0106   1.0450   0.9993   1.0018   1.0095   1.0346
-  1970     9053     9068   1.0016   1.0015   1.0001   0.9990   0.9994   0.9867   0.9978   1.0129   1.0464   0.9977   1.0135   1.0535   0.9995   0.9969   1.0138   1.0524
-  1980    11524    11275   0.9784   0.9803   0.9981   0.9755   0.9772   0.9314   0.9703   0.9827   1.0115   0.9694   0.9818   1.0109   1.0000   0.9683   0.9819   1.0067
-  1990    18575    17950   0.9664   0.9697   0.9965   0.9683   0.9705   0.9970   0.9575   0.9557   0.9804   0.9557   0.9474   0.9745   1.0015   0.9558   0.9421   0.9670
-  2000    23413    22643   0.9671   0.9716   0.9953   0.9687   0.9719   0.9938   0.9612   0.9431   0.9759   0.9549   0.9320   0.9736   1.0038   0.9550   0.9221   0.9704
-  2010    26681      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
+  1960     4504     4522   1.0040   1.0042   0.9998   1.0015   1.0016   1.0028   1.0016   1.0094   1.0325   1.0018   1.0097   1.0385   0.9993   1.0012   1.0087   1.0291
+  1970     8450     8456   1.0007   1.0004   1.0004   0.9988   0.9992   0.9893   0.9975   1.0122   1.0363   0.9975   1.0129   1.0483   0.9997   0.9968   1.0131   1.0486
+  1980    11457    11215   0.9788   0.9803   0.9985   0.9757   0.9773   0.9303   0.9700   0.9847   1.0149   0.9689   0.9833   1.0189   1.0001   0.9682   0.9834   1.0168
+  1990    18274    17690   0.9681   0.9711   0.9969   0.9696   0.9718   0.9984   0.9595   0.9578   0.9840   0.9574   0.9500   0.9854   1.0013   0.9575   0.9454   0.9799
+  2000    23490    22732   0.9677   0.9719   0.9957   0.9693   0.9723   0.9930   0.9615   0.9455   0.9791   0.9551   0.9342   0.9786   1.0037   0.9556   0.9256   0.9755
+  2010    26782      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
  
 Solving for Yfinal (e.g. Y with 1960 taus but the 1970 state) 
 ...... 
@@ -369,12 +369,12 @@ Solving for Yfinal (e.g. Y with 1960 taus but the 1970 state)
 ...... 
 Decade Baseline   Yfinal  GrowthY   gFYwkr    gFlfp   gFearn gearnAll   gFcons   gGapWW   gGapBM   gGapBW gGpAllWW gGpAllBM gGpAllBW  gEarnWM  gEarnWW  gEarnBM  gEarnBW
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  1960     4539      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
-  1970     9053     9024   1.0032   1.0034   0.9998   1.0014   1.0016   1.0041   1.0011   1.0116   1.0365   1.0011   1.0115   1.0358   0.9995   1.0007   1.0108   1.0328
-  1980    11524    11530   0.9995   0.9992   1.0003   0.9974   0.9979   0.9853   0.9952   1.0137   1.0462   0.9946   1.0137   1.0502   0.9999   0.9943   1.0135   1.0507
-  1990    18575    19130   0.9710   0.9742   0.9967   0.9716   0.9734   0.9370   0.9620   0.9678   0.9955   0.9604   0.9616   0.9851   1.0008   0.9601   0.9590   0.9784
-  2000    23413    24351   0.9615   0.9675   0.9938   0.9641   0.9672   0.9892   0.9570   0.9461   0.9701   0.9524   0.9289   0.9548   1.0018   0.9515   0.9197   0.9443
-  2010    26681    27888   0.9567   0.9658   0.9906   0.9601   0.9645   0.9831   0.9546   0.9272   0.9532   0.9448   0.9046   0.9389   1.0046   0.9433   0.8909   0.9326
+  1960     4504      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
+  1970     8450     8432   1.0021   1.0025   0.9996   1.0006   1.0008   1.0013   1.0004   1.0113   1.0326   1.0002   1.0111   1.0297   0.9995   0.9998   1.0104   1.0254
+  1980    11457    11474   0.9985   0.9982   1.0003   0.9970   0.9973   0.9871   0.9946   1.0131   1.0392   0.9940   1.0127   1.0401   1.0002   0.9939   1.0129   1.0417
+  1990    18274    18824   0.9708   0.9745   0.9962   0.9715   0.9736   0.9358   0.9621   0.9697   1.0046   0.9605   0.9632   0.9887   1.0010   0.9600   0.9597   0.9805
+  2000    23490    24391   0.9630   0.9682   0.9947   0.9655   0.9684   0.9910   0.9575   0.9466   0.9744   0.9538   0.9327   0.9616   1.0017   0.9529   0.9246   0.9525
+  2010    26782    27999   0.9565   0.9653   0.9909   0.9601   0.9646   0.9821   0.9533   0.9282   0.9603   0.9443   0.9059   0.9435   1.0048   0.9431   0.8922   0.9360
  
 Here are the growth factors, Laspeyeres, Paasche, and GeoAvg:
  
@@ -382,262 +382,262 @@ GDP per person
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0048  1.0032  1.0040
- 1970 1980  1.0016  0.9995  1.0005
- 1980 1990  0.9784  0.9710  0.9747
- 1990 2000  0.9664  0.9615  0.9639
- 2000 2010  0.9671  0.9567  0.9619
+ 1960 1970  1.0040  1.0021  1.0031
+ 1970 1980  1.0007  0.9985  0.9996
+ 1980 1990  0.9788  0.9708  0.9748
+ 1990 2000  0.9681  0.9630  0.9655
+ 2000 2010  0.9677  0.9565  0.9621
  
 GDP per worker
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0050  1.0034  1.0042
- 1970 1980  1.0015  0.9992  1.0003
- 1980 1990  0.9803  0.9742  0.9772
- 1990 2000  0.9697  0.9675  0.9686
- 2000 2010  0.9716  0.9658  0.9687
+ 1960 1970  1.0042  1.0025  1.0034
+ 1970 1980  1.0004  0.9982  0.9993
+ 1980 1990  0.9803  0.9745  0.9774
+ 1990 2000  0.9711  0.9682  0.9696
+ 2000 2010  0.9719  0.9653  0.9686
  
 Labor Force Participation (LFP)
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9998  0.9998  0.9998
- 1970 1980  1.0001  1.0003  1.0002
- 1980 1990  0.9981  0.9967  0.9974
- 1990 2000  0.9965  0.9938  0.9952
- 2000 2010  0.9953  0.9906  0.9930
+ 1960 1970  0.9998  0.9996  0.9997
+ 1970 1980  1.0004  1.0003  1.0003
+ 1980 1990  0.9985  0.9962  0.9974
+ 1990 2000  0.9969  0.9947  0.9958
+ 2000 2010  0.9957  0.9909  0.9933
  
 Earnings
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0021  1.0014  1.0017
- 1970 1980  0.9990  0.9974  0.9982
- 1980 1990  0.9755  0.9716  0.9735
- 1990 2000  0.9683  0.9641  0.9662
- 2000 2010  0.9687  0.9601  0.9644
+ 1960 1970  1.0015  1.0006  1.0010
+ 1970 1980  0.9988  0.9970  0.9979
+ 1980 1990  0.9757  0.9715  0.9736
+ 1990 2000  0.9696  0.9655  0.9676
+ 2000 2010  0.9693  0.9601  0.9647
  
 EarningsAll
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0022  1.0016  1.0019
- 1970 1980  0.9994  0.9979  0.9986
- 1980 1990  0.9772  0.9734  0.9753
- 1990 2000  0.9705  0.9672  0.9688
- 2000 2010  0.9719  0.9645  0.9682
+ 1960 1970  1.0016  1.0008  1.0012
+ 1970 1980  0.9992  0.9973  0.9983
+ 1980 1990  0.9773  0.9736  0.9755
+ 1990 2000  0.9718  0.9684  0.9701
+ 2000 2010  0.9723  0.9646  0.9684
  
 ConsumpYoung (market)
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0044  1.0041  1.0043
- 1970 1980  0.9867  0.9853  0.9860
- 1980 1990  0.9314  0.9370  0.9342
- 1990 2000  0.9970  0.9892  0.9931
- 2000 2010  0.9938  0.9831  0.9884
+ 1960 1970  1.0028  1.0013  1.0021
+ 1970 1980  0.9893  0.9871  0.9882
+ 1980 1990  0.9303  0.9358  0.9331
+ 1990 2000  0.9984  0.9910  0.9947
+ 2000 2010  0.9930  0.9821  0.9876
  
 WageGapWW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0022  1.0011  1.0017
- 1970 1980  0.9978  0.9952  0.9965
- 1980 1990  0.9703  0.9620  0.9661
- 1990 2000  0.9575  0.9570  0.9573
- 2000 2010  0.9612  0.9546  0.9579
+ 1960 1970  1.0016  1.0004  1.0010
+ 1970 1980  0.9975  0.9946  0.9961
+ 1980 1990  0.9700  0.9621  0.9660
+ 1990 2000  0.9595  0.9575  0.9585
+ 2000 2010  0.9615  0.9533  0.9574
  
 WageGapBM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0103  1.0116  1.0109
- 1970 1980  1.0129  1.0137  1.0133
- 1980 1990  0.9827  0.9678  0.9752
- 1990 2000  0.9557  0.9461  0.9509
- 2000 2010  0.9431  0.9272  0.9351
+ 1960 1970  1.0094  1.0113  1.0103
+ 1970 1980  1.0122  1.0131  1.0126
+ 1980 1990  0.9847  0.9697  0.9772
+ 1990 2000  0.9578  0.9466  0.9522
+ 2000 2010  0.9455  0.9282  0.9368
  
 WageGapBW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0379  1.0365  1.0372
- 1970 1980  1.0464  1.0462  1.0463
- 1980 1990  1.0115  0.9955  1.0035
- 1990 2000  0.9804  0.9701  0.9752
- 2000 2010  0.9759  0.9532  0.9645
+ 1960 1970  1.0325  1.0326  1.0325
+ 1970 1980  1.0363  1.0392  1.0378
+ 1980 1990  1.0149  1.0046  1.0097
+ 1990 2000  0.9840  0.9744  0.9792
+ 2000 2010  0.9791  0.9603  0.9696
  
 WageGapAllWW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0024  1.0011  1.0017
- 1970 1980  0.9977  0.9946  0.9962
- 1980 1990  0.9694  0.9604  0.9649
- 1990 2000  0.9557  0.9524  0.9540
- 2000 2010  0.9549  0.9448  0.9498
+ 1960 1970  1.0018  1.0002  1.0010
+ 1970 1980  0.9975  0.9940  0.9957
+ 1980 1990  0.9689  0.9605  0.9647
+ 1990 2000  0.9574  0.9538  0.9556
+ 2000 2010  0.9551  0.9443  0.9497
  
 WageGapAllBM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0106  1.0115  1.0111
- 1970 1980  1.0135  1.0137  1.0136
- 1980 1990  0.9818  0.9616  0.9716
- 1990 2000  0.9474  0.9289  0.9381
- 2000 2010  0.9320  0.9046  0.9182
+ 1960 1970  1.0097  1.0111  1.0104
+ 1970 1980  1.0129  1.0127  1.0128
+ 1980 1990  0.9833  0.9632  0.9732
+ 1990 2000  0.9500  0.9327  0.9413
+ 2000 2010  0.9342  0.9059  0.9199
  
 WageGapAllBW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0450  1.0358  1.0404
- 1970 1980  1.0535  1.0502  1.0518
- 1980 1990  1.0109  0.9851  0.9979
- 1990 2000  0.9745  0.9548  0.9646
- 2000 2010  0.9736  0.9389  0.9561
+ 1960 1970  1.0385  1.0297  1.0341
+ 1970 1980  1.0483  1.0401  1.0442
+ 1980 1990  1.0189  0.9887  1.0037
+ 1990 2000  0.9854  0.9616  0.9734
+ 2000 2010  0.9786  0.9435  0.9609
  
 EarningsWM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
  1960 1970  0.9993  0.9995  0.9994
- 1970 1980  0.9995  0.9999  0.9997
- 1980 1990  1.0000  1.0008  1.0004
- 1990 2000  1.0015  1.0018  1.0016
- 2000 2010  1.0038  1.0046  1.0042
+ 1970 1980  0.9997  1.0002  1.0000
+ 1980 1990  1.0001  1.0010  1.0005
+ 1990 2000  1.0013  1.0017  1.0015
+ 2000 2010  1.0037  1.0048  1.0043
  
 EarningsWW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0018  1.0007  1.0012
- 1970 1980  0.9969  0.9943  0.9956
- 1980 1990  0.9683  0.9601  0.9642
- 1990 2000  0.9558  0.9515  0.9536
- 2000 2010  0.9550  0.9433  0.9491
+ 1960 1970  1.0012  0.9998  1.0005
+ 1970 1980  0.9968  0.9939  0.9954
+ 1980 1990  0.9682  0.9600  0.9641
+ 1990 2000  0.9575  0.9529  0.9552
+ 2000 2010  0.9556  0.9431  0.9493
  
 EarningsBM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0095  1.0108  1.0102
- 1970 1980  1.0138  1.0135  1.0136
- 1980 1990  0.9819  0.9590  0.9704
- 1990 2000  0.9421  0.9197  0.9309
- 2000 2010  0.9221  0.8909  0.9064
+ 1960 1970  1.0087  1.0104  1.0095
+ 1970 1980  1.0131  1.0129  1.0130
+ 1980 1990  0.9834  0.9597  0.9715
+ 1990 2000  0.9454  0.9246  0.9349
+ 2000 2010  0.9256  0.8922  0.9088
  
 EarningsBW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0346  1.0328  1.0337
- 1970 1980  1.0524  1.0507  1.0516
- 1980 1990  1.0067  0.9784  0.9924
- 1990 2000  0.9670  0.9443  0.9556
- 2000 2010  0.9704  0.9326  0.9513
+ 1960 1970  1.0291  1.0254  1.0273
+ 1970 1980  1.0486  1.0417  1.0451
+ 1980 1990  1.0168  0.9805  0.9985
+ 1990 2000  0.9799  0.9525  0.9661
+ 2000 2010  0.9755  0.9360  0.9555
  
 Cumulative growth from changes:
-GDP per person =   0.9078
-GDP per worker =   0.9211
-Labor Force Participation (LFP) =   0.9856
-Earnings =   0.9071
-EarningsAll =   0.9152
-ConsumpYoung (market) =   0.9080
-WageGapWW =   0.8843
-WageGapBM =   0.8883
-WageGapBW =   1.0243
-WageGapAllWW =   0.8725
-WageGapAllBM =   0.8576
-WageGapAllBW =   1.0071
-EarningsWM =   1.0053
-EarningsWW =   0.8700
-EarningsBM =   0.8383
-EarningsBW =   0.9806
+GDP per person =   0.9080
+GDP per worker =   0.9204
+Labor Force Participation (LFP) =   0.9866
+Earnings =   0.9077
+EarningsAll =   0.9160
+ConsumpYoung (market) =   0.9076
+WageGapWW =   0.8839
+WageGapBM =   0.8918
+WageGapBW =   1.0273
+WageGapAllWW =   0.8726
+WageGapAllBM =   0.8624
+WageGapAllBW =   1.0136
+EarningsWM =   1.0056
+EarningsWW =   0.8706
+EarningsBM =   0.8441
+EarningsBW =   0.9896
  
  
 ///////////////////////////// KEY RESULT //////////////////////////////
  
 GDP per person
-      Average annual growth of baseline (model) measure:   3.5424
-        Average annual growth due to changing TauH      :  -0.1934
-                         >>>>>   Share accounted for by TauH is   -5.5 percent  <<<<<
+      Average annual growth of baseline (model) measure:   3.5654
+        Average annual growth due to changing TauH      :  -0.1930
+                         >>>>>   Share accounted for by TauH is   -5.4 percent  <<<<<
  
 GDP per worker
-      Average annual growth of baseline (model) measure:   3.1832
-        Average annual growth due to changing TauH      :  -0.1644
+      Average annual growth of baseline (model) measure:   3.1650
+        Average annual growth due to changing TauH      :  -0.1659
                          >>>>>   Share accounted for by TauH is   -5.2 percent  <<<<<
  
 Labor Force Participation (LFP)
-      Average annual growth of baseline (model) measure:   0.3592
-        Average annual growth due to changing TauH      :  -0.0290
-                         >>>>>   Share accounted for by TauH is   -8.1 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.4004
+        Average annual growth due to changing TauH      :  -0.0271
+                         >>>>>   Share accounted for by TauH is   -6.8 percent  <<<<<
  
 Earnings
-      Average annual growth of baseline (model) measure:   1.7202
-        Average annual growth due to changing TauH      :  -0.1951
-                         >>>>>   Share accounted for by TauH is  -11.3 percent  <<<<<
+      Average annual growth of baseline (model) measure:   1.7370
+        Average annual growth due to changing TauH      :  -0.1936
+                         >>>>>   Share accounted for by TauH is  -11.1 percent  <<<<<
  
 EarningsAll
-      Average annual growth of baseline (model) measure:   1.7572
-        Average annual growth due to changing TauH      :  -0.1771
-                         >>>>>   Share accounted for by TauH is  -10.1 percent  <<<<<
+      Average annual growth of baseline (model) measure:   1.7603
+        Average annual growth due to changing TauH      :  -0.1755
+                         >>>>>   Share accounted for by TauH is  -10.0 percent  <<<<<
  
 ConsumpYoung (market)
-      Average annual growth of baseline (model) measure:   2.1704
-        Average annual growth due to changing TauH      :  -0.1930
-                         >>>>>   Share accounted for by TauH is   -8.9 percent  <<<<<
+      Average annual growth of baseline (model) measure:   2.3735
+        Average annual growth due to changing TauH      :  -0.1939
+                         >>>>>   Share accounted for by TauH is   -8.2 percent  <<<<<
  
 WageGapWW
-      Average annual growth of baseline (model) measure:  -1.2549
-        Average annual growth due to changing TauH      :  -0.2460
-                         >>>>>   Share accounted for by TauH is   19.6 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -1.2219
+        Average annual growth due to changing TauH      :  -0.2468
+                         >>>>>   Share accounted for by TauH is   20.2 percent  <<<<<
  
 WageGapBM
-      Average annual growth of baseline (model) measure:  -0.2792
-        Average annual growth due to changing TauH      :  -0.2369
-                         >>>>>   Share accounted for by TauH is   84.8 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -0.2629
+        Average annual growth due to changing TauH      :  -0.2289
+                         >>>>>   Share accounted for by TauH is   87.1 percent  <<<<<
  
 WageGapBW
-      Average annual growth of baseline (model) measure:   0.6685
-        Average annual growth due to changing TauH      :   0.0480
-                         >>>>>   Share accounted for by TauH is    7.2 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.6777
+        Average annual growth due to changing TauH      :   0.0538
+                         >>>>>   Share accounted for by TauH is    7.9 percent  <<<<<
  
 WageGapAllWW
-      Average annual growth of baseline (model) measure:  -2.3039
-        Average annual growth due to changing TauH      :  -0.2728
+      Average annual growth of baseline (model) measure:  -2.3143
+        Average annual growth due to changing TauH      :  -0.2725
                          >>>>>   Share accounted for by TauH is   11.8 percent  <<<<<
  
 WageGapAllBM
-      Average annual growth of baseline (model) measure:  -1.5297
-        Average annual growth due to changing TauH      :  -0.3071
-                         >>>>>   Share accounted for by TauH is   20.1 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -1.5440
+        Average annual growth due to changing TauH      :  -0.2960
+                         >>>>>   Share accounted for by TauH is   19.2 percent  <<<<<
  
 WageGapAllBW
-      Average annual growth of baseline (model) measure:   0.3523
-        Average annual growth due to changing TauH      :   0.0142
-                         >>>>>   Share accounted for by TauH is    4.0 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.3370
+        Average annual growth due to changing TauH      :   0.0270
+                         >>>>>   Share accounted for by TauH is    8.0 percent  <<<<<
  
 EarningsWM
-      Average annual growth of baseline (model) measure:   3.6683
-        Average annual growth due to changing TauH      :   0.0106
+      Average annual growth of baseline (model) measure:   3.6970
+        Average annual growth due to changing TauH      :   0.0112
                          >>>>>   Share accounted for by TauH is    0.3 percent  <<<<<
  
 EarningsWW
-      Average annual growth of baseline (model) measure:   0.9352
-        Average annual growth due to changing TauH      :  -0.2786
-                         >>>>>   Share accounted for by TauH is  -29.8 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.9561
+        Average annual growth due to changing TauH      :  -0.2771
+                         >>>>>   Share accounted for by TauH is  -29.0 percent  <<<<<
  
 EarningsBM
-      Average annual growth of baseline (model) measure:   2.5447
-        Average annual growth due to changing TauH      :  -0.3527
-                         >>>>>   Share accounted for by TauH is  -13.9 percent  <<<<<
+      Average annual growth of baseline (model) measure:   2.5644
+        Average annual growth due to changing TauH      :  -0.3389
+                         >>>>>   Share accounted for by TauH is  -13.2 percent  <<<<<
  
 EarningsBW
-      Average annual growth of baseline (model) measure:   4.8063
-        Average annual growth due to changing TauH      :  -0.0391
-                         >>>>>   Share accounted for by TauH is   -0.8 percent  <<<<<
+      Average annual growth of baseline (model) measure:   4.8362
+        Average annual growth due to changing TauH      :  -0.0209
+                         >>>>>   Share accounted for by TauH is   -0.4 percent  <<<<<
  
  
 ---------------------------------------------------
@@ -651,12 +651,12 @@ Solving for Yinit (e.g. Y with 1970 taus but the 1960 state)
 ...... 
 Decade Baseline    Yinit  GrowthY   gIYwkr    gILFP   gIearn gearnAll   gIcons   gGapWW   gGapBM   gGapBW gGpAllWW gGpAllBM gGpAllBW  gEarnWM  gEarnWW  gEarnBM  gEarnBW
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  1960     4539     4442   0.9787   1.0622   0.9214   0.7441   0.7806   0.7867   0.7798   1.0673   1.1521   0.7240   0.9784   1.0532   0.9921   0.6924   0.9685   1.0567
-  1970     9053     8748   0.9663   1.0228   0.9448   0.7900   0.8190   0.8157   0.8130   0.8497   1.0876   0.7719   0.7394   1.0652   0.9974   0.7489   0.6968   1.0874
-  1980    11524    11022   0.9565   1.0426   0.9174   0.6431   0.6862   0.6231   0.6324   0.7191   0.9575   0.5942   0.6379   0.8918   0.9943   0.5584   0.5728   0.8483
-  1990    18575    18570   0.9997   1.0056   0.9942   0.9652   0.9694   0.9681   0.9552   1.0307   1.0177   0.9493   1.0321   1.0150   0.9987   0.9432   1.0382   1.0182
-  2000    23413    23327   0.9963   0.9985   0.9978   0.9786   0.9817   0.9778   0.9648   1.0388   1.0341   0.9627   1.0500   1.0324   0.9996   0.9580   1.0631   1.0404
-  2010    26681      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
+  1960     4504     4412   0.9795   1.0632   0.9213   0.7451   0.7817   0.7868   0.7813   1.0699   1.1571   0.7253   0.9805   1.0647   0.9921   0.6939   0.9710   1.0727
+  1970     8450     8140   0.9634   1.0252   0.9396   0.7854   0.8170   0.8112   0.8128   0.8512   1.1045   0.7698   0.7376   1.0723   0.9972   0.7452   0.6927   1.0953
+  1980    11457    10996   0.9598   1.0374   0.9252   0.6463   0.6859   0.6239   0.6288   0.7087   0.9374   0.5953   0.6363   0.8692   0.9950   0.5639   0.5778   0.8250
+  1990    18274    18268   0.9997   1.0060   0.9937   0.9635   0.9685   0.9661   0.9536   1.0324   1.0246   0.9473   1.0345   1.0262   0.9985   0.9404   1.0416   1.0324
+  2000    23490    23409   0.9965   0.9991   0.9974   0.9789   0.9818   0.9786   0.9657   1.0381   1.0320   0.9639   1.0432   1.0265   0.9996   0.9597   1.0530   1.0320
+  2010    26782      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
  
 Solving for Yfinal (e.g. Y with 1960 taus but the 1970 state) 
 ...... 
@@ -666,12 +666,12 @@ Solving for Yfinal (e.g. Y with 1960 taus but the 1970 state)
 ...... 
 Decade Baseline   Yfinal  GrowthY   gFYwkr    gFlfp   gFearn gearnAll   gFcons   gGapWW   gGapBM   gGapBW gGpAllWW gGpAllBM gGpAllBW  gEarnWM  gEarnWW  gEarnBM  gEarnBW
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  1960     4539      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
-  1970     9053     9059   0.9994   1.0354   0.9652   0.6936   0.7204   0.6365   0.6817   0.8431   1.0148   0.6664   0.8282   0.9689   0.9946   0.6476   0.8007   0.9322
-  1980    11524    11630   0.9908   1.0172   0.9741   0.7713   0.7905   0.7502   0.7611   0.7585   1.0514   0.7444   0.7137   1.0532   0.9982   0.7314   0.6818   1.0646
-  1990    18575    19137   0.9706   1.0223   0.9495   0.6153   0.6414   0.5826   0.5638   0.6632   0.9268   0.5452   0.5999   0.8805   0.9955   0.5256   0.5496   0.8452
-  2000    23413    23444   0.9987   1.0057   0.9930   0.9612   0.9666   0.9577   0.9497   1.0240   1.0119   0.9435   1.0218   1.0075   0.9990   0.9364   1.0278   1.0104
-  2010    26681    26759   0.9971   0.9996   0.9974   0.9736   0.9777   0.9643   0.9552   1.0282   1.0295   0.9534   1.0433   1.0308   0.9996   0.9467   1.0556   1.0391
+  1960     4504      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
+  1970     8450     8448   1.0002   1.0379   0.9637   0.6926   0.7213   0.6398   0.6830   0.8451   1.0329   0.6678   0.8304   0.9893   0.9944   0.6480   0.8015   0.9561
+  1980    11457    11550   0.9919   1.0154   0.9769   0.7708   0.7886   0.7473   0.7577   0.7522   1.0450   0.7428   0.7116   1.0483   0.9981   0.7312   0.6828   1.0570
+  1990    18274    18878   0.9680   1.0252   0.9442   0.6119   0.6418   0.5801   0.5659   0.6653   0.9092   0.5464   0.5992   0.8576   0.9952   0.5251   0.5453   0.8168
+  2000    23490    23510   0.9991   1.0056   0.9936   0.9605   0.9658   0.9567   0.9471   1.0259   1.0216   0.9411   1.0243   1.0215   0.9990   0.9342   1.0297   1.0272
+  2010    26782    26852   0.9974   1.0002   0.9972   0.9738   0.9776   0.9647   0.9561   1.0270   1.0261   0.9546   1.0353   1.0245   0.9995   0.9488   1.0430   1.0304
  
 Here are the growth factors, Laspeyeres, Paasche, and GeoAvg:
  
@@ -679,262 +679,262 @@ GDP per person
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9787  0.9994  0.9890
- 1970 1980  0.9663  0.9908  0.9785
- 1980 1990  0.9565  0.9706  0.9635
- 1990 2000  0.9997  0.9987  0.9992
- 2000 2010  0.9963  0.9971  0.9967
+ 1960 1970  0.9795  1.0002  0.9898
+ 1970 1980  0.9634  0.9919  0.9775
+ 1980 1990  0.9598  0.9680  0.9639
+ 1990 2000  0.9997  0.9991  0.9994
+ 2000 2010  0.9965  0.9974  0.9970
  
 GDP per worker
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0622  1.0354  1.0487
- 1970 1980  1.0228  1.0172  1.0200
- 1980 1990  1.0426  1.0223  1.0324
- 1990 2000  1.0056  1.0057  1.0056
- 2000 2010  0.9985  0.9996  0.9991
+ 1960 1970  1.0632  1.0379  1.0505
+ 1970 1980  1.0252  1.0154  1.0203
+ 1980 1990  1.0374  1.0252  1.0313
+ 1990 2000  1.0060  1.0056  1.0058
+ 2000 2010  0.9991  1.0002  0.9997
  
 Labor Force Participation (LFP)
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9214  0.9652  0.9430
- 1970 1980  0.9448  0.9741  0.9594
- 1980 1990  0.9174  0.9495  0.9333
- 1990 2000  0.9942  0.9930  0.9936
- 2000 2010  0.9978  0.9974  0.9976
+ 1960 1970  0.9213  0.9637  0.9423
+ 1970 1980  0.9396  0.9769  0.9581
+ 1980 1990  0.9252  0.9442  0.9347
+ 1990 2000  0.9937  0.9936  0.9937
+ 2000 2010  0.9974  0.9972  0.9973
  
 Earnings
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7441  0.6936  0.7184
- 1970 1980  0.7900  0.7713  0.7806
- 1980 1990  0.6431  0.6153  0.6290
- 1990 2000  0.9652  0.9612  0.9632
- 2000 2010  0.9786  0.9736  0.9761
+ 1960 1970  0.7451  0.6926  0.7183
+ 1970 1980  0.7854  0.7708  0.7780
+ 1980 1990  0.6463  0.6119  0.6289
+ 1990 2000  0.9635  0.9605  0.9620
+ 2000 2010  0.9789  0.9738  0.9763
  
 EarningsAll
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7806  0.7204  0.7499
- 1970 1980  0.8190  0.7905  0.8046
- 1980 1990  0.6862  0.6414  0.6634
- 1990 2000  0.9694  0.9666  0.9680
- 2000 2010  0.9817  0.9777  0.9797
+ 1960 1970  0.7817  0.7213  0.7509
+ 1970 1980  0.8170  0.7886  0.8026
+ 1980 1990  0.6859  0.6418  0.6635
+ 1990 2000  0.9685  0.9658  0.9671
+ 2000 2010  0.9818  0.9776  0.9797
  
 ConsumpYoung (market)
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7867  0.6365  0.7076
- 1970 1980  0.8157  0.7502  0.7823
- 1980 1990  0.6231  0.5826  0.6025
- 1990 2000  0.9681  0.9577  0.9629
- 2000 2010  0.9778  0.9643  0.9710
+ 1960 1970  0.7868  0.6398  0.7095
+ 1970 1980  0.8112  0.7473  0.7786
+ 1980 1990  0.6239  0.5801  0.6016
+ 1990 2000  0.9661  0.9567  0.9614
+ 2000 2010  0.9786  0.9647  0.9716
  
 WageGapWW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7798  0.6817  0.7291
- 1970 1980  0.8130  0.7611  0.7866
- 1980 1990  0.6324  0.5638  0.5971
- 1990 2000  0.9552  0.9497  0.9524
- 2000 2010  0.9648  0.9552  0.9600
+ 1960 1970  0.7813  0.6830  0.7305
+ 1970 1980  0.8128  0.7577  0.7847
+ 1980 1990  0.6288  0.5659  0.5965
+ 1990 2000  0.9536  0.9471  0.9503
+ 2000 2010  0.9657  0.9561  0.9609
  
 WageGapBM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0673  0.8431  0.9486
- 1970 1980  0.8497  0.7585  0.8028
- 1980 1990  0.7191  0.6632  0.6906
- 1990 2000  1.0307  1.0240  1.0273
- 2000 2010  1.0388  1.0282  1.0335
+ 1960 1970  1.0699  0.8451  0.9509
+ 1970 1980  0.8512  0.7522  0.8002
+ 1980 1990  0.7087  0.6653  0.6867
+ 1990 2000  1.0324  1.0259  1.0291
+ 2000 2010  1.0381  1.0270  1.0325
  
 WageGapBW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.1521  1.0148  1.0813
- 1970 1980  1.0876  1.0514  1.0693
- 1980 1990  0.9575  0.9268  0.9420
- 1990 2000  1.0177  1.0119  1.0148
- 2000 2010  1.0341  1.0295  1.0318
+ 1960 1970  1.1571  1.0329  1.0932
+ 1970 1980  1.1045  1.0450  1.0743
+ 1980 1990  0.9374  0.9092  0.9232
+ 1990 2000  1.0246  1.0216  1.0231
+ 2000 2010  1.0320  1.0261  1.0290
  
 WageGapAllWW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7240  0.6664  0.6946
- 1970 1980  0.7719  0.7444  0.7581
- 1980 1990  0.5942  0.5452  0.5691
- 1990 2000  0.9493  0.9435  0.9464
- 2000 2010  0.9627  0.9534  0.9580
+ 1960 1970  0.7253  0.6678  0.6960
+ 1970 1980  0.7698  0.7428  0.7562
+ 1980 1990  0.5953  0.5464  0.5703
+ 1990 2000  0.9473  0.9411  0.9442
+ 2000 2010  0.9639  0.9546  0.9593
  
 WageGapAllBM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9784  0.8282  0.9001
- 1970 1980  0.7394  0.7137  0.7264
- 1980 1990  0.6379  0.5999  0.6186
- 1990 2000  1.0321  1.0218  1.0269
- 2000 2010  1.0500  1.0433  1.0466
+ 1960 1970  0.9805  0.8304  0.9023
+ 1970 1980  0.7376  0.7116  0.7245
+ 1980 1990  0.6363  0.5992  0.6174
+ 1990 2000  1.0345  1.0243  1.0294
+ 2000 2010  1.0432  1.0353  1.0393
  
 WageGapAllBW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0532  0.9689  1.0101
- 1970 1980  1.0652  1.0532  1.0592
- 1980 1990  0.8918  0.8805  0.8861
- 1990 2000  1.0150  1.0075  1.0112
- 2000 2010  1.0324  1.0308  1.0316
+ 1960 1970  1.0647  0.9893  1.0263
+ 1970 1980  1.0723  1.0483  1.0603
+ 1980 1990  0.8692  0.8576  0.8634
+ 1990 2000  1.0262  1.0215  1.0238
+ 2000 2010  1.0265  1.0245  1.0255
  
 EarningsWM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9921  0.9946  0.9934
- 1970 1980  0.9974  0.9982  0.9978
- 1980 1990  0.9943  0.9955  0.9949
- 1990 2000  0.9987  0.9990  0.9989
- 2000 2010  0.9996  0.9996  0.9996
+ 1960 1970  0.9921  0.9944  0.9933
+ 1970 1980  0.9972  0.9981  0.9976
+ 1980 1990  0.9950  0.9952  0.9951
+ 1990 2000  0.9985  0.9990  0.9988
+ 2000 2010  0.9996  0.9995  0.9996
  
 EarningsWW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.6924  0.6476  0.6696
- 1970 1980  0.7489  0.7314  0.7401
- 1980 1990  0.5584  0.5256  0.5417
- 1990 2000  0.9432  0.9364  0.9398
- 2000 2010  0.9580  0.9467  0.9523
+ 1960 1970  0.6939  0.6480  0.6706
+ 1970 1980  0.7452  0.7312  0.7382
+ 1980 1990  0.5639  0.5251  0.5442
+ 1990 2000  0.9404  0.9342  0.9373
+ 2000 2010  0.9597  0.9488  0.9542
  
 EarningsBM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9685  0.8007  0.8806
- 1970 1980  0.6968  0.6818  0.6893
- 1980 1990  0.5728  0.5496  0.5611
- 1990 2000  1.0382  1.0278  1.0330
- 2000 2010  1.0631  1.0556  1.0593
+ 1960 1970  0.9710  0.8015  0.8822
+ 1970 1980  0.6927  0.6828  0.6877
+ 1980 1990  0.5778  0.5453  0.5613
+ 1990 2000  1.0416  1.0297  1.0356
+ 2000 2010  1.0530  1.0430  1.0480
  
 EarningsBW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0567  0.9322  0.9925
- 1970 1980  1.0874  1.0646  1.0759
- 1980 1990  0.8483  0.8452  0.8467
- 1990 2000  1.0182  1.0104  1.0143
- 2000 2010  1.0404  1.0391  1.0398
+ 1960 1970  1.0727  0.9561  1.0127
+ 1970 1980  1.0953  1.0570  1.0760
+ 1980 1990  0.8250  0.8168  0.8209
+ 1990 2000  1.0324  1.0272  1.0298
+ 2000 2010  1.0320  1.0304  1.0312
  
 Cumulative growth from changes:
-GDP per person =   0.9286
-GDP per worker =   1.1095
-Labor Force Participation (LFP) =   0.8370
-Earnings =   0.3316
-EarningsAll =   0.3796
-ConsumpYoung (market) =   0.3119
-WageGapWW =   0.3131
-WageGapBM =   0.5584
-WageGapBW =   1.1405
-WageGapAllWW =   0.2717
-WageGapAllBM =   0.4347
-WageGapAllBW =   0.9891
-EarningsWM =   0.9846
-EarningsWW =   0.2403
-EarningsBM =   0.3727
-EarningsBW =   0.9536
+GDP per person =   0.9293
+GDP per worker =   1.1114
+Labor Force Participation (LFP) =   0.8362
+Earnings =   0.3301
+EarningsAll =   0.3789
+ConsumpYoung (market) =   0.3104
+WageGapWW =   0.3123
+WageGapBM =   0.5552
+WageGapBW =   1.1415
+WageGapAllWW =   0.2718
+WageGapAllBM =   0.4318
+WageGapAllBW =   0.9864
+EarningsWM =   0.9844
+EarningsWW =   0.2409
+EarningsBM =   0.3696
+EarningsBW =   0.9499
  
  
 ///////////////////////////// KEY RESULT //////////////////////////////
  
 GDP per person
-      Average annual growth of baseline (model) measure:   3.5424
-        Average annual growth due to changing TauW      :  -0.1481
-                         >>>>>   Share accounted for by TauW is   -4.2 percent  <<<<<
+      Average annual growth of baseline (model) measure:   3.5654
+        Average annual growth due to changing TauW      :  -0.1467
+                         >>>>>   Share accounted for by TauW is   -4.1 percent  <<<<<
  
 GDP per worker
-      Average annual growth of baseline (model) measure:   3.1832
-        Average annual growth due to changing TauW      :   0.2078
-                         >>>>>   Share accounted for by TauW is    6.5 percent  <<<<<
+      Average annual growth of baseline (model) measure:   3.1650
+        Average annual growth due to changing TauW      :   0.2112
+                         >>>>>   Share accounted for by TauW is    6.7 percent  <<<<<
  
 Labor Force Participation (LFP)
-      Average annual growth of baseline (model) measure:   0.3592
-        Average annual growth due to changing TauW      :  -0.3559
-                         >>>>>   Share accounted for by TauW is  -99.1 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.4004
+        Average annual growth due to changing TauW      :  -0.3579
+                         >>>>>   Share accounted for by TauW is  -89.4 percent  <<<<<
  
 Earnings
-      Average annual growth of baseline (model) measure:   1.7202
-        Average annual growth due to changing TauW      :  -2.2074
-                         >>>>>   Share accounted for by TauW is -128.3 percent  <<<<<
+      Average annual growth of baseline (model) measure:   1.7370
+        Average annual growth due to changing TauW      :  -2.2166
+                         >>>>>   Share accounted for by TauW is -127.6 percent  <<<<<
  
 EarningsAll
-      Average annual growth of baseline (model) measure:   1.7572
-        Average annual growth due to changing TauW      :  -1.9371
-                         >>>>>   Share accounted for by TauW is -110.2 percent  <<<<<
+      Average annual growth of baseline (model) measure:   1.7603
+        Average annual growth due to changing TauW      :  -1.9410
+                         >>>>>   Share accounted for by TauW is -110.3 percent  <<<<<
  
 ConsumpYoung (market)
-      Average annual growth of baseline (model) measure:   2.1704
-        Average annual growth due to changing TauW      :  -2.3305
-                         >>>>>   Share accounted for by TauW is -107.4 percent  <<<<<
+      Average annual growth of baseline (model) measure:   2.3735
+        Average annual growth due to changing TauW      :  -2.3397
+                         >>>>>   Share accounted for by TauW is  -98.6 percent  <<<<<
  
 WageGapWW
-      Average annual growth of baseline (model) measure:  -1.2549
-        Average annual growth due to changing TauW      :  -2.3222
-                         >>>>>   Share accounted for by TauW is  185.1 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -1.2219
+        Average annual growth due to changing TauW      :  -2.3278
+                         >>>>>   Share accounted for by TauW is  190.5 percent  <<<<<
  
 WageGapBM
-      Average annual growth of baseline (model) measure:  -0.2792
-        Average annual growth due to changing TauW      :  -1.1653
-                         >>>>>   Share accounted for by TauW is  417.3 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -0.2629
+        Average annual growth due to changing TauW      :  -1.1770
+                         >>>>>   Share accounted for by TauW is  447.7 percent  <<<<<
  
 WageGapBW
-      Average annual growth of baseline (model) measure:   0.6685
-        Average annual growth due to changing TauW      :   0.2629
-                         >>>>>   Share accounted for by TauW is   39.3 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.6777
+        Average annual growth due to changing TauW      :   0.2647
+                         >>>>>   Share accounted for by TauW is   39.1 percent  <<<<<
  
 WageGapAllWW
-      Average annual growth of baseline (model) measure:  -2.3039
-        Average annual growth due to changing TauW      :  -2.6060
-                         >>>>>   Share accounted for by TauW is  113.1 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -2.3143
+        Average annual growth due to changing TauW      :  -2.6052
+                         >>>>>   Share accounted for by TauW is  112.6 percent  <<<<<
  
 WageGapAllBM
-      Average annual growth of baseline (model) measure:  -1.5297
-        Average annual growth due to changing TauW      :  -1.6660
-                         >>>>>   Share accounted for by TauW is  108.9 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -1.5440
+        Average annual growth due to changing TauW      :  -1.6795
+                         >>>>>   Share accounted for by TauW is  108.8 percent  <<<<<
  
 WageGapAllBW
-      Average annual growth of baseline (model) measure:   0.3523
-        Average annual growth due to changing TauW      :  -0.0220
-                         >>>>>   Share accounted for by TauW is   -6.2 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.3370
+        Average annual growth due to changing TauW      :  -0.0273
+                         >>>>>   Share accounted for by TauW is   -8.1 percent  <<<<<
  
 EarningsWM
-      Average annual growth of baseline (model) measure:   3.6683
-        Average annual growth due to changing TauW      :  -0.0310
-                         >>>>>   Share accounted for by TauW is   -0.8 percent  <<<<<
+      Average annual growth of baseline (model) measure:   3.6970
+        Average annual growth due to changing TauW      :  -0.0315
+                         >>>>>   Share accounted for by TauW is   -0.9 percent  <<<<<
  
 EarningsWW
-      Average annual growth of baseline (model) measure:   0.9352
-        Average annual growth due to changing TauW      :  -2.8518
-                         >>>>>   Share accounted for by TauW is -304.9 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.9561
+        Average annual growth due to changing TauW      :  -2.8467
+                         >>>>>   Share accounted for by TauW is -297.7 percent  <<<<<
  
 EarningsBM
-      Average annual growth of baseline (model) measure:   2.5447
-        Average annual growth due to changing TauW      :  -1.9741
+      Average annual growth of baseline (model) measure:   2.5644
+        Average annual growth due to changing TauW      :  -1.9907
                          >>>>>   Share accounted for by TauW is  -77.6 percent  <<<<<
  
 EarningsBW
-      Average annual growth of baseline (model) measure:   4.8063
-        Average annual growth due to changing TauW      :  -0.0951
-                         >>>>>   Share accounted for by TauW is   -2.0 percent  <<<<<
+      Average annual growth of baseline (model) measure:   4.8362
+        Average annual growth due to changing TauW      :  -0.1028
+                         >>>>>   Share accounted for by TauW is   -2.1 percent  <<<<<
  
  
 ---------------------------------------------------
@@ -948,12 +948,12 @@ Solving for Yinit (e.g. Y with 1970 taus but the 1960 state)
 ...... 
 Decade Baseline    Yinit  GrowthY   gIYwkr    gILFP   gIearn gearnAll   gIcons   gGapWW   gGapBM   gGapBW gGpAllWW gGpAllBM gGpAllBW  gEarnWM  gEarnWW  gEarnBM  gEarnBW
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  1960     4539     4414   0.9724   1.0786   0.9015   0.7357   0.7756   0.7562   0.7905   1.1161   1.2492   0.7157   0.9875   1.1238   0.9923   0.6816   0.9702   1.0984
-  1970     9053     8366   0.9241   1.0121   0.9131   0.7337   0.7638   0.7749   0.7757   0.8499   1.1519   0.6995   0.6860   1.1514   0.9951   0.6794   0.6468   1.1535
-  1980    11524    10336   0.8970   1.0073   0.8905   0.5956   0.6357   0.5759   0.5902   0.7006   0.9697   0.5292   0.5689   0.9128   0.9905   0.4994   0.5146   0.8558
-  1990    18575    17407   0.9371   0.9631   0.9731   0.8997   0.9048   0.9619   0.8889   0.9582   0.9833   0.8571   0.8918   0.9705   0.9987   0.8541   0.8942   0.9645
-  2000    23413    22252   0.9504   0.9654   0.9845   0.9321   0.9364   0.9674   0.9164   0.9600   0.9862   0.8922   0.9407   0.9940   1.0029   0.8918   0.9495   1.0011
-  2010    26681      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
+  1960     4504     4343   0.9643   1.0784   0.8942   0.7291   0.7705   0.7304   0.7906   1.1210   1.2458   0.7098   0.9712   1.1153   0.9929   0.6749   0.9526   1.1042
+  1970     8450     7728   0.9146   1.0163   0.8999   0.7229   0.7562   0.7617   0.7756   0.8585   1.1387   0.6908   0.6707   1.1258   0.9954   0.6693   0.6298   1.1429
+  1980    11457    10238   0.8936   0.9994   0.8941   0.5926   0.6303   0.5757   0.5827   0.6880   0.9404   0.5240   0.5567   0.8899   0.9907   0.4975   0.5081   0.8382
+  1990    18274    17097   0.9356   0.9656   0.9689   0.8952   0.9009   0.9604   0.8887   0.9637   0.9954   0.8501   0.8898   0.9959   0.9979   0.8473   0.8964   0.9945
+  2000    23490    22321   0.9502   0.9672   0.9825   0.9317   0.9356   0.9670   0.9179   0.9658   0.9948   0.8918   0.9383   0.9916   1.0027   0.8921   0.9452   0.9945
+  2010    26782      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
  
 Solving for Yfinal (e.g. Y with 1960 taus but the 1970 state) 
 ...... 
@@ -963,12 +963,12 @@ Solving for Yfinal (e.g. Y with 1960 taus but the 1970 state)
 ...... 
 Decade Baseline   Yfinal  GrowthY   gFYwkr    gFlfp   gFearn gearnAll   gFcons   gGapWW   gGapBM   gGapBW gGpAllWW gGpAllBM gGpAllBW  gEarnWM  gEarnWW  gEarnBM  gEarnBW
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  1960     4539      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
-  1970     9053     8972   1.0090   1.0259   0.9836   0.7163   0.7415   0.7239   0.6841   0.8455   1.0838   0.6874   0.8674   1.0205   0.9964   0.6708   0.8447   0.9709
-  1980    11524    11096   1.0385   1.0433   0.9954   0.8175   0.8338   0.7680   0.7864   0.7918   1.1278   0.7911   0.7765   1.1550   0.9994   0.7810   0.7463   1.1659
-  1990    18575    18922   0.9816   1.0265   0.9563   0.6243   0.6507   0.5415   0.5639   0.6747   0.9283   0.5557   0.6216   0.8960   0.9923   0.5349   0.5679   0.8548
-  2000    23413    23890   0.9800   0.9822   0.9978   0.9483   0.9549   0.9539   0.9195   0.9838   0.9719   0.9278   0.9907   0.9700   0.9997   0.9215   0.9839   0.9666
-  2010    26681    27869   0.9574   0.9601   0.9972   0.9379   0.9441   0.9533   0.9007   0.9362   0.9637   0.9024   0.9420   0.9690   1.0037   0.8981   0.9437   0.9762
+  1960     4504      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
+  1970     8450     8283   1.0202   1.0190   1.0012   0.7282   0.7544   0.7786   0.6796   0.8383   1.0855   0.7013   0.8860   1.0398   0.9972   0.6847   0.8641   0.9973
+  1980    11457    10734   1.0674   1.0574   1.0094   0.8477   0.8616   0.7751   0.8042   0.8015   1.1191   0.8237   0.8102   1.1626   0.9999   0.8154   0.7829   1.1788
+  1990    18274    18305   0.9983   1.0375   0.9622   0.6361   0.6664   0.5399   0.5714   0.6844   0.9143   0.5737   0.6411   0.8913   0.9911   0.5503   0.5806   0.8475
+  2000    23490    23809   0.9866   0.9851   1.0015   0.9531   0.9594   0.9517   0.9212   0.9882   0.9804   0.9331   1.0054   0.9950   0.9991   0.9267   0.9968   0.9969
+  2010    26782    27960   0.9579   0.9611   0.9967   0.9385   0.9448   0.9524   0.9019   0.9366   0.9707   0.9041   0.9413   0.9685   1.0036   0.9005   0.9381   0.9709
  
 Here are the growth factors, Laspeyeres, Paasche, and GeoAvg:
  
@@ -976,262 +976,262 @@ GDP per person
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9724  1.0090  0.9906
- 1970 1980  0.9241  1.0385  0.9796
- 1980 1990  0.8970  0.9816  0.9383
- 1990 2000  0.9371  0.9800  0.9583
- 2000 2010  0.9504  0.9574  0.9539
+ 1960 1970  0.9643  1.0202  0.9919
+ 1970 1980  0.9146  1.0674  0.9880
+ 1980 1990  0.8936  0.9983  0.9445
+ 1990 2000  0.9356  0.9866  0.9607
+ 2000 2010  0.9502  0.9579  0.9540
  
 GDP per worker
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0786  1.0259  1.0519
- 1970 1980  1.0121  1.0433  1.0276
- 1980 1990  1.0073  1.0265  1.0168
- 1990 2000  0.9631  0.9822  0.9726
- 2000 2010  0.9654  0.9601  0.9627
+ 1960 1970  1.0784  1.0190  1.0483
+ 1970 1980  1.0163  1.0574  1.0367
+ 1980 1990  0.9994  1.0375  1.0183
+ 1990 2000  0.9656  0.9851  0.9753
+ 2000 2010  0.9672  0.9611  0.9641
  
 Labor Force Participation (LFP)
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9015  0.9836  0.9416
- 1970 1980  0.9131  0.9954  0.9533
- 1980 1990  0.8905  0.9563  0.9228
- 1990 2000  0.9731  0.9978  0.9853
- 2000 2010  0.9845  0.9972  0.9908
+ 1960 1970  0.8942  1.0012  0.9462
+ 1970 1980  0.8999  1.0094  0.9531
+ 1980 1990  0.8941  0.9622  0.9275
+ 1990 2000  0.9689  1.0015  0.9850
+ 2000 2010  0.9825  0.9967  0.9895
  
 Earnings
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7357  0.7163  0.7259
- 1970 1980  0.7337  0.8175  0.7745
- 1980 1990  0.5956  0.6243  0.6098
- 1990 2000  0.8997  0.9483  0.9237
- 2000 2010  0.9321  0.9379  0.9350
+ 1960 1970  0.7291  0.7282  0.7287
+ 1970 1980  0.7229  0.8477  0.7828
+ 1980 1990  0.5926  0.6361  0.6139
+ 1990 2000  0.8952  0.9531  0.9237
+ 2000 2010  0.9317  0.9385  0.9351
  
 EarningsAll
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7756  0.7415  0.7584
- 1970 1980  0.7638  0.8338  0.7980
- 1980 1990  0.6357  0.6507  0.6432
- 1990 2000  0.9048  0.9549  0.9295
- 2000 2010  0.9364  0.9441  0.9402
+ 1960 1970  0.7705  0.7544  0.7624
+ 1970 1980  0.7562  0.8616  0.8072
+ 1980 1990  0.6303  0.6664  0.6481
+ 1990 2000  0.9009  0.9594  0.9297
+ 2000 2010  0.9356  0.9448  0.9402
  
 ConsumpYoung (market)
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7562  0.7239  0.7399
- 1970 1980  0.7749  0.7680  0.7714
- 1980 1990  0.5759  0.5415  0.5584
- 1990 2000  0.9619  0.9539  0.9579
- 2000 2010  0.9674  0.9533  0.9603
+ 1960 1970  0.7304  0.7786  0.7541
+ 1970 1980  0.7617  0.7751  0.7684
+ 1980 1990  0.5757  0.5399  0.5575
+ 1990 2000  0.9604  0.9517  0.9561
+ 2000 2010  0.9670  0.9524  0.9596
  
 WageGapWW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7905  0.6841  0.7353
- 1970 1980  0.7757  0.7864  0.7810
- 1980 1990  0.5902  0.5639  0.5769
- 1990 2000  0.8889  0.9195  0.9041
- 2000 2010  0.9164  0.9007  0.9085
+ 1960 1970  0.7906  0.6796  0.7330
+ 1970 1980  0.7756  0.8042  0.7898
+ 1980 1990  0.5827  0.5714  0.5770
+ 1990 2000  0.8887  0.9212  0.9048
+ 2000 2010  0.9179  0.9019  0.9099
  
 WageGapBM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.1161  0.8455  0.9714
- 1970 1980  0.8499  0.7918  0.8203
- 1980 1990  0.7006  0.6747  0.6876
- 1990 2000  0.9582  0.9838  0.9709
- 2000 2010  0.9600  0.9362  0.9480
+ 1960 1970  1.1210  0.8383  0.9694
+ 1970 1980  0.8585  0.8015  0.8295
+ 1980 1990  0.6880  0.6844  0.6862
+ 1990 2000  0.9637  0.9882  0.9759
+ 2000 2010  0.9658  0.9366  0.9511
  
 WageGapBW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.2492  1.0838  1.1636
- 1970 1980  1.1519  1.1278  1.1398
- 1980 1990  0.9697  0.9283  0.9488
- 1990 2000  0.9833  0.9719  0.9776
- 2000 2010  0.9862  0.9637  0.9749
+ 1960 1970  1.2458  1.0855  1.1629
+ 1970 1980  1.1387  1.1191  1.1288
+ 1980 1990  0.9404  0.9143  0.9272
+ 1990 2000  0.9954  0.9804  0.9879
+ 2000 2010  0.9948  0.9707  0.9826
  
 WageGapAllWW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7157  0.6874  0.7014
- 1970 1980  0.6995  0.7911  0.7439
- 1980 1990  0.5292  0.5557  0.5423
- 1990 2000  0.8571  0.9278  0.8918
- 2000 2010  0.8922  0.9024  0.8973
+ 1960 1970  0.7098  0.7013  0.7055
+ 1970 1980  0.6908  0.8237  0.7544
+ 1980 1990  0.5240  0.5737  0.5483
+ 1990 2000  0.8501  0.9331  0.8906
+ 2000 2010  0.8918  0.9041  0.8979
  
 WageGapAllBM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9875  0.8674  0.9255
- 1970 1980  0.6860  0.7765  0.7298
- 1980 1990  0.5689  0.6216  0.5947
- 1990 2000  0.8918  0.9907  0.9399
- 2000 2010  0.9407  0.9420  0.9413
+ 1960 1970  0.9712  0.8860  0.9276
+ 1970 1980  0.6707  0.8102  0.7371
+ 1980 1990  0.5567  0.6411  0.5974
+ 1990 2000  0.8898  1.0054  0.9459
+ 2000 2010  0.9383  0.9413  0.9398
  
 WageGapAllBW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.1238  1.0205  1.0709
- 1970 1980  1.1514  1.1550  1.1532
- 1980 1990  0.9128  0.8960  0.9043
- 1990 2000  0.9705  0.9700  0.9702
- 2000 2010  0.9940  0.9690  0.9814
+ 1960 1970  1.1153  1.0398  1.0769
+ 1970 1980  1.1258  1.1626  1.1440
+ 1980 1990  0.8899  0.8913  0.8906
+ 1990 2000  0.9959  0.9950  0.9955
+ 2000 2010  0.9916  0.9685  0.9800
  
 EarningsWM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9923  0.9964  0.9944
- 1970 1980  0.9951  0.9994  0.9973
- 1980 1990  0.9905  0.9923  0.9914
- 1990 2000  0.9987  0.9997  0.9992
- 2000 2010  1.0029  1.0037  1.0033
+ 1960 1970  0.9929  0.9972  0.9950
+ 1970 1980  0.9954  0.9999  0.9977
+ 1980 1990  0.9907  0.9911  0.9909
+ 1990 2000  0.9979  0.9991  0.9985
+ 2000 2010  1.0027  1.0036  1.0032
  
 EarningsWW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.6816  0.6708  0.6761
- 1970 1980  0.6794  0.7810  0.7284
- 1980 1990  0.4994  0.5349  0.5169
- 1990 2000  0.8541  0.9215  0.8872
- 2000 2010  0.8918  0.8981  0.8949
+ 1960 1970  0.6749  0.6847  0.6797
+ 1970 1980  0.6693  0.8154  0.7387
+ 1980 1990  0.4975  0.5503  0.5232
+ 1990 2000  0.8473  0.9267  0.8861
+ 2000 2010  0.8921  0.9005  0.8963
  
 EarningsBM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9702  0.8447  0.9053
- 1970 1980  0.6468  0.7463  0.6948
- 1980 1990  0.5146  0.5679  0.5406
- 1990 2000  0.8942  0.9839  0.9380
- 2000 2010  0.9495  0.9437  0.9466
+ 1960 1970  0.9526  0.8641  0.9073
+ 1970 1980  0.6298  0.7829  0.7022
+ 1980 1990  0.5081  0.5806  0.5431
+ 1990 2000  0.8964  0.9968  0.9453
+ 2000 2010  0.9452  0.9381  0.9416
  
 EarningsBW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0984  0.9709  1.0327
- 1970 1980  1.1535  1.1659  1.1597
- 1980 1990  0.8558  0.8548  0.8553
- 1990 2000  0.9645  0.9666  0.9655
- 2000 2010  1.0011  0.9762  0.9886
+ 1960 1970  1.1042  0.9973  1.0494
+ 1970 1980  1.1429  1.1788  1.1607
+ 1980 1990  0.8382  0.8475  0.8428
+ 1990 2000  0.9945  0.9969  0.9957
+ 2000 2010  0.9945  0.9709  0.9827
  
 Cumulative growth from changes:
-GDP per person =   0.8324
-GDP per worker =   1.0292
-Labor Force Participation (LFP) =   0.8088
-Earnings =   0.2961
-EarningsAll =   0.3402
-ConsumpYoung (market) =   0.2932
-WageGapWW =   0.2721
-WageGapBM =   0.5043
-WageGapBW =   1.1992
-WageGapAllWW =   0.2264
-WageGapAllBM =   0.3554
-WageGapAllBW =   1.0635
-EarningsWM =   0.9856
-EarningsWW =   0.2021
-EarningsBM =   0.3019
-EarningsBW =   0.9778
+GDP per person =   0.8484
+GDP per worker =   1.0405
+Labor Force Participation (LFP) =   0.8153
+Earnings =   0.3025
+EarningsAll =   0.3487
+ConsumpYoung (market) =   0.2964
+WageGapWW =   0.2750
+WageGapBM =   0.5121
+WageGapBW =   1.1816
+WageGapAllWW =   0.2334
+WageGapAllBM =   0.3631
+WageGapAllBW =   1.0703
+EarningsWM =   0.9854
+EarningsWW =   0.2087
+EarningsBM =   0.3080
+EarningsBW =   1.0044
  
  
 ///////////////////////////// KEY RESULT //////////////////////////////
  
 GDP per person
-      Average annual growth of baseline (model) measure:   3.5424
-        Average annual growth due to changing Both+Z      :  -0.3669
-                         >>>>>   Share accounted for by Both+Z is  -10.4 percent  <<<<<
+      Average annual growth of baseline (model) measure:   3.5654
+        Average annual growth due to changing Both+Z      :  -0.3289
+                         >>>>>   Share accounted for by Both+Z is   -9.2 percent  <<<<<
  
 GDP per worker
-      Average annual growth of baseline (model) measure:   3.1832
-        Average annual growth due to changing Both+Z      :   0.0575
-                         >>>>>   Share accounted for by Both+Z is    1.8 percent  <<<<<
+      Average annual growth of baseline (model) measure:   3.1650
+        Average annual growth due to changing Both+Z      :   0.0795
+                         >>>>>   Share accounted for by Both+Z is    2.5 percent  <<<<<
  
 Labor Force Participation (LFP)
-      Average annual growth of baseline (model) measure:   0.3592
-        Average annual growth due to changing Both+Z      :  -0.4244
-                         >>>>>   Share accounted for by Both+Z is -118.2 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.4004
+        Average annual growth due to changing Both+Z      :  -0.4083
+                         >>>>>   Share accounted for by Both+Z is -102.0 percent  <<<<<
  
 Earnings
-      Average annual growth of baseline (model) measure:   1.7202
-        Average annual growth due to changing Both+Z      :  -2.4344
-                         >>>>>   Share accounted for by Both+Z is -141.5 percent  <<<<<
+      Average annual growth of baseline (model) measure:   1.7370
+        Average annual growth due to changing Both+Z      :  -2.3914
+                         >>>>>   Share accounted for by Both+Z is -137.7 percent  <<<<<
  
 EarningsAll
-      Average annual growth of baseline (model) measure:   1.7572
-        Average annual growth due to changing Both+Z      :  -2.1564
-                         >>>>>   Share accounted for by Both+Z is -122.7 percent  <<<<<
+      Average annual growth of baseline (model) measure:   1.7603
+        Average annual growth due to changing Both+Z      :  -2.1073
+                         >>>>>   Share accounted for by Both+Z is -119.7 percent  <<<<<
  
 ConsumpYoung (market)
-      Average annual growth of baseline (model) measure:   2.1704
-        Average annual growth due to changing Both+Z      :  -2.4540
-                         >>>>>   Share accounted for by Both+Z is -113.1 percent  <<<<<
+      Average annual growth of baseline (model) measure:   2.3735
+        Average annual growth due to changing Both+Z      :  -2.4322
+                         >>>>>   Share accounted for by Both+Z is -102.5 percent  <<<<<
  
 WageGapWW
-      Average annual growth of baseline (model) measure:  -1.2549
-        Average annual growth due to changing Both+Z      :  -2.6030
-                         >>>>>   Share accounted for by Both+Z is  207.4 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -1.2219
+        Average annual growth due to changing Both+Z      :  -2.5822
+                         >>>>>   Share accounted for by Both+Z is  211.3 percent  <<<<<
  
 WageGapBM
-      Average annual growth of baseline (model) measure:  -0.2792
-        Average annual growth due to changing Both+Z      :  -1.3690
-                         >>>>>   Share accounted for by Both+Z is  490.3 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -0.2629
+        Average annual growth due to changing Both+Z      :  -1.3384
+                         >>>>>   Share accounted for by Both+Z is  509.0 percent  <<<<<
  
 WageGapBW
-      Average annual growth of baseline (model) measure:   0.6685
-        Average annual growth due to changing Both+Z      :   0.3633
-                         >>>>>   Share accounted for by Both+Z is   54.3 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.6777
+        Average annual growth due to changing Both+Z      :   0.3338
+                         >>>>>   Share accounted for by Both+Z is   49.2 percent  <<<<<
  
 WageGapAllWW
-      Average annual growth of baseline (model) measure:  -2.3039
-        Average annual growth due to changing Both+Z      :  -2.9708
-                         >>>>>   Share accounted for by Both+Z is  128.9 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -2.3143
+        Average annual growth due to changing Both+Z      :  -2.9103
+                         >>>>>   Share accounted for by Both+Z is  125.8 percent  <<<<<
  
 WageGapAllBM
-      Average annual growth of baseline (model) measure:  -1.5297
-        Average annual growth due to changing Both+Z      :  -2.0690
-                         >>>>>   Share accounted for by Both+Z is  135.3 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -1.5440
+        Average annual growth due to changing Both+Z      :  -2.0261
+                         >>>>>   Share accounted for by Both+Z is  131.2 percent  <<<<<
  
 WageGapAllBW
-      Average annual growth of baseline (model) measure:   0.3523
-        Average annual growth due to changing Both+Z      :   0.1231
-                         >>>>>   Share accounted for by Both+Z is   34.9 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.3370
+        Average annual growth due to changing Both+Z      :   0.1359
+                         >>>>>   Share accounted for by Both+Z is   40.3 percent  <<<<<
  
 EarningsWM
-      Average annual growth of baseline (model) measure:   3.6683
-        Average annual growth due to changing Both+Z      :  -0.0291
+      Average annual growth of baseline (model) measure:   3.6970
+        Average annual growth due to changing Both+Z      :  -0.0295
                          >>>>>   Share accounted for by Both+Z is   -0.8 percent  <<<<<
  
 EarningsWW
-      Average annual growth of baseline (model) measure:   0.9352
-        Average annual growth due to changing Both+Z      :  -3.1979
-                         >>>>>   Share accounted for by Both+Z is -341.9 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.9561
+        Average annual growth due to changing Both+Z      :  -3.1340
+                         >>>>>   Share accounted for by Both+Z is -327.8 percent  <<<<<
  
 EarningsBM
-      Average annual growth of baseline (model) measure:   2.5447
-        Average annual growth due to changing Both+Z      :  -2.3953
-                         >>>>>   Share accounted for by Both+Z is  -94.1 percent  <<<<<
+      Average annual growth of baseline (model) measure:   2.5644
+        Average annual growth due to changing Both+Z      :  -2.3556
+                         >>>>>   Share accounted for by Both+Z is  -91.9 percent  <<<<<
  
 EarningsBW
-      Average annual growth of baseline (model) measure:   4.8063
-        Average annual growth due to changing Both+Z      :  -0.0450
-                         >>>>>   Share accounted for by Both+Z is   -0.9 percent  <<<<<
+      Average annual growth of baseline (model) measure:   4.8362
+        Average annual growth due to changing Both+Z      :   0.0088
+                         >>>>>   Share accounted for by Both+Z is    0.2 percent  <<<<<
  
  
 ---------------------------------------------------
@@ -1245,12 +1245,12 @@ Solving for Yinit (e.g. Y with 1970 taus but the 1960 state)
 ...... 
 Decade Baseline    Yinit  GrowthY   gIYwkr    gILFP   gIearn gearnAll   gIcons   gGapWW   gGapBM   gGapBW gGpAllWW gGpAllBM gGpAllBW  gEarnWM  gEarnWW  gEarnBM  gEarnBW
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  1960     4539     4377   0.9643   1.0986   0.8778   0.7267   0.7759   0.7243   0.8109   1.1520   1.2329   0.7167   0.9877   1.1237   0.9916   0.6715   0.9460   1.1203
-  1970     9053     8322   0.9192   1.0269   0.8951   0.7285   0.7630   0.7792   0.7925   0.8978   1.1536   0.6988   0.6855   1.1515   0.9947   0.6736   0.6268   1.1667
-  1980    11524    10291   0.8930   1.0188   0.8765   0.5923   0.6354   0.5752   0.6011   0.7380   0.9656   0.5290   0.5687   0.9128   0.9902   0.4958   0.4992   0.8637
-  1990    18575    17430   0.9384   0.9618   0.9756   0.9006   0.9049   0.9623   0.8882   0.9600   0.9614   0.8573   0.8919   0.9703   0.9986   0.8547   0.8941   0.9803
-  2000    23413    22321   0.9534   0.9604   0.9927   0.9348   0.9364   0.9790   0.9115   0.9371   0.9642   0.8923   0.9405   0.9937   1.0029   0.8937   0.9640   1.0221
-  2010    26681      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
+  1960     4504     4320   0.9591   1.0943   0.8765   0.7228   0.7707   0.7080   0.8074   1.1544   1.2095   0.7106   0.9712   1.1151   0.9922   0.6676   0.9349   1.1419
+  1970     8450     7667   0.9074   1.0375   0.8746   0.7157   0.7557   0.7517   0.7979   0.9213   1.1600   0.6908   0.6706   1.1258   0.9948   0.6617   0.6056   1.1432
+  1980    11457    10191   0.8895   1.0103   0.8804   0.5894   0.6301   0.5839   0.5925   0.7277   0.9392   0.5240   0.5564   0.8898   0.9904   0.4939   0.4943   0.8446
+  1990    18274    17068   0.9340   0.9690   0.9639   0.8933   0.9011   0.9498   0.8938   0.9797   0.9911   0.8506   0.8906   0.9959   0.9977   0.8445   0.8868   1.0041
+  2000    23490    22371   0.9524   0.9616   0.9904   0.9337   0.9358   0.9793   0.9120   0.9447   0.9734   0.8920   0.9383   0.9913   1.0028   0.8935   0.9528   1.0137
+  2010    26782      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
  
 Solving for Yfinal (e.g. Y with 1960 taus but the 1970 state) 
 ...... 
@@ -1260,12 +1260,12 @@ Solving for Yfinal (e.g. Y with 1960 taus but the 1970 state)
 ...... 
 Decade Baseline   Yfinal  GrowthY   gFYwkr    gFlfp   gFearn gearnAll   gFcons   gGapWW   gGapBM   gGapBW gGpAllWW gGpAllBM gGpAllBW  gEarnWM  gEarnWW  gEarnBM  gEarnBW
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  1960     4539      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
-  1970     9053     8986   1.0074   1.0325   0.9757   0.7145   0.7415   0.7164   0.6908   0.8626   1.0705   0.6875   0.8677   1.0205   0.9962   0.6689   0.8378   0.9784
-  1980    11524    11127   1.0356   1.0512   0.9852   0.8143   0.8335   0.7695   0.7960   0.8140   1.1114   0.7908   0.7764   1.1550   0.9992   0.7776   0.7368   1.1734
-  1990    18575    18958   0.9798   1.0310   0.9503   0.6230   0.6504   0.5413   0.5687   0.6883   0.9178   0.5554   0.6214   0.8960   0.9923   0.5337   0.5626   0.8576
-  2000    23413    23864   0.9811   0.9801   1.0010   0.9494   0.9550   0.9542   0.9176   0.9859   0.9514   0.9280   0.9908   0.9698   0.9996   0.9230   0.9789   0.9775
-  2010    26681    27793   0.9600   0.9541   1.0062   0.9403   0.9442   0.9652   0.8940   0.9114   0.9429   0.9024   0.9417   0.9687   1.0038   0.8999   0.9546   0.9944
+  1960     4504      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN      NaN
+  1970     8450     8292   1.0191   1.0242   0.9950   0.7267   0.7543   0.7716   0.6857   0.8514   1.0557   0.7013   0.8862   1.0397   0.9970   0.6830   0.8584   1.0137
+  1980    11457    10768   1.0640   1.0677   0.9966   0.8440   0.8610   0.7717   0.8170   0.8279   1.0977   0.8233   0.8098   1.1624   0.9997   0.8116   0.7727   1.1792
+  1990    18274    18328   0.9971   1.0426   0.9563   0.6350   0.6659   0.5423   0.5777   0.6965   0.8899   0.5732   0.6407   0.8912   0.9911   0.5492   0.5771   0.8545
+  2000    23490    23821   0.9861   0.9886   0.9975   0.9522   0.9596   0.9424   0.9262   1.0061   0.9740   0.9335   1.0058   0.9950   0.9990   0.9254   0.9883   1.0039
+  2010    26782    27841   0.9620   0.9544   1.0079   0.9426   0.9449   0.9653   0.8941   0.9145   0.9494   0.9039   0.9410   0.9683   1.0038   0.9044   0.9501   0.9940
  
 Here are the growth factors, Laspeyeres, Paasche, and GeoAvg:
  
@@ -1273,259 +1273,259 @@ GDP per person
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9643  1.0074  0.9856
- 1970 1980  0.9192  1.0356  0.9757
- 1980 1990  0.8930  0.9798  0.9354
- 1990 2000  0.9384  0.9811  0.9595
- 2000 2010  0.9534  0.9600  0.9567
+ 1960 1970  0.9591  1.0191  0.9886
+ 1970 1980  0.9074  1.0640  0.9826
+ 1980 1990  0.8895  0.9971  0.9417
+ 1990 2000  0.9340  0.9861  0.9597
+ 2000 2010  0.9524  0.9620  0.9572
  
 GDP per worker
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.0986  1.0325  1.0650
- 1970 1980  1.0269  1.0512  1.0390
- 1980 1990  1.0188  1.0310  1.0249
- 1990 2000  0.9618  0.9801  0.9709
- 2000 2010  0.9604  0.9541  0.9572
+ 1960 1970  1.0943  1.0242  1.0586
+ 1970 1980  1.0375  1.0677  1.0525
+ 1980 1990  1.0103  1.0426  1.0263
+ 1990 2000  0.9690  0.9886  0.9787
+ 2000 2010  0.9616  0.9544  0.9580
  
 Labor Force Participation (LFP)
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.8778  0.9757  0.9255
- 1970 1980  0.8951  0.9852  0.9391
- 1980 1990  0.8765  0.9503  0.9127
- 1990 2000  0.9756  1.0010  0.9883
- 2000 2010  0.9927  1.0062  0.9994
+ 1960 1970  0.8765  0.9950  0.9339
+ 1970 1980  0.8746  0.9966  0.9336
+ 1980 1990  0.8804  0.9563  0.9176
+ 1990 2000  0.9639  0.9975  0.9806
+ 2000 2010  0.9904  1.0079  0.9991
  
 Earnings
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7267  0.7145  0.7205
- 1970 1980  0.7285  0.8143  0.7702
- 1980 1990  0.5923  0.6230  0.6075
- 1990 2000  0.9006  0.9494  0.9247
- 2000 2010  0.9348  0.9403  0.9375
+ 1960 1970  0.7228  0.7267  0.7247
+ 1970 1980  0.7157  0.8440  0.7772
+ 1980 1990  0.5894  0.6350  0.6118
+ 1990 2000  0.8933  0.9522  0.9223
+ 2000 2010  0.9337  0.9426  0.9381
  
 EarningsAll
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7759  0.7415  0.7585
- 1970 1980  0.7630  0.8335  0.7974
- 1980 1990  0.6354  0.6504  0.6428
- 1990 2000  0.9049  0.9550  0.9296
- 2000 2010  0.9364  0.9442  0.9403
+ 1960 1970  0.7707  0.7543  0.7625
+ 1970 1980  0.7557  0.8610  0.8067
+ 1980 1990  0.6301  0.6659  0.6478
+ 1990 2000  0.9011  0.9596  0.9299
+ 2000 2010  0.9358  0.9449  0.9403
  
 ConsumpYoung (market)
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7243  0.7164  0.7204
- 1970 1980  0.7792  0.7695  0.7743
- 1980 1990  0.5752  0.5413  0.5580
- 1990 2000  0.9623  0.9542  0.9582
- 2000 2010  0.9790  0.9652  0.9721
+ 1960 1970  0.7080  0.7716  0.7391
+ 1970 1980  0.7517  0.7717  0.7616
+ 1980 1990  0.5839  0.5423  0.5627
+ 1990 2000  0.9498  0.9424  0.9461
+ 2000 2010  0.9793  0.9653  0.9723
  
 WageGapWW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.8109  0.6908  0.7484
- 1970 1980  0.7925  0.7960  0.7943
- 1980 1990  0.6011  0.5687  0.5847
- 1990 2000  0.8882  0.9176  0.9028
- 2000 2010  0.9115  0.8940  0.9027
+ 1960 1970  0.8074  0.6857  0.7441
+ 1970 1980  0.7979  0.8170  0.8074
+ 1980 1990  0.5925  0.5777  0.5851
+ 1990 2000  0.8938  0.9262  0.9099
+ 2000 2010  0.9120  0.8941  0.9030
  
 WageGapBM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.1520  0.8626  0.9969
- 1970 1980  0.8978  0.8140  0.8548
- 1980 1990  0.7380  0.6883  0.7127
- 1990 2000  0.9600  0.9859  0.9729
- 2000 2010  0.9371  0.9114  0.9241
+ 1960 1970  1.1544  0.8514  0.9914
+ 1970 1980  0.9213  0.8279  0.8734
+ 1980 1990  0.7277  0.6965  0.7120
+ 1990 2000  0.9797  1.0061  0.9928
+ 2000 2010  0.9447  0.9145  0.9295
  
 WageGapBW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.2329  1.0705  1.1488
- 1970 1980  1.1536  1.1114  1.1323
- 1980 1990  0.9656  0.9178  0.9414
- 1990 2000  0.9614  0.9514  0.9563
- 2000 2010  0.9642  0.9429  0.9535
+ 1960 1970  1.2095  1.0557  1.1300
+ 1970 1980  1.1600  1.0977  1.1284
+ 1980 1990  0.9392  0.8899  0.9142
+ 1990 2000  0.9911  0.9740  0.9825
+ 2000 2010  0.9734  0.9494  0.9613
  
 WageGapAllWW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.7167  0.6875  0.7019
- 1970 1980  0.6988  0.7908  0.7434
- 1980 1990  0.5290  0.5554  0.5420
- 1990 2000  0.8573  0.9280  0.8920
- 2000 2010  0.8923  0.9024  0.8974
+ 1960 1970  0.7106  0.7013  0.7060
+ 1970 1980  0.6908  0.8233  0.7541
+ 1980 1990  0.5240  0.5732  0.5480
+ 1990 2000  0.8506  0.9335  0.8911
+ 2000 2010  0.8920  0.9039  0.8979
  
 WageGapAllBM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9877  0.8677  0.9258
- 1970 1980  0.6855  0.7764  0.7295
- 1980 1990  0.5687  0.6214  0.5945
- 1990 2000  0.8919  0.9908  0.9400
- 2000 2010  0.9405  0.9417  0.9411
+ 1960 1970  0.9712  0.8862  0.9277
+ 1970 1980  0.6706  0.8098  0.7369
+ 1980 1990  0.5564  0.6407  0.5971
+ 1990 2000  0.8906  1.0058  0.9464
+ 2000 2010  0.9383  0.9410  0.9396
  
 WageGapAllBW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.1237  1.0205  1.0708
- 1970 1980  1.1515  1.1550  1.1533
- 1980 1990  0.9128  0.8960  0.9043
- 1990 2000  0.9703  0.9698  0.9701
- 2000 2010  0.9937  0.9687  0.9812
+ 1960 1970  1.1151  1.0397  1.0767
+ 1970 1980  1.1258  1.1624  1.1440
+ 1980 1990  0.8898  0.8912  0.8905
+ 1990 2000  0.9959  0.9950  0.9954
+ 2000 2010  0.9913  0.9683  0.9797
  
 EarningsWM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9916  0.9962  0.9939
- 1970 1980  0.9947  0.9992  0.9970
- 1980 1990  0.9902  0.9923  0.9912
- 1990 2000  0.9986  0.9996  0.9991
- 2000 2010  1.0029  1.0038  1.0033
+ 1960 1970  0.9922  0.9970  0.9946
+ 1970 1980  0.9948  0.9997  0.9972
+ 1980 1990  0.9904  0.9911  0.9907
+ 1990 2000  0.9977  0.9990  0.9984
+ 2000 2010  1.0028  1.0038  1.0033
  
 EarningsWW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.6715  0.6689  0.6702
- 1970 1980  0.6736  0.7776  0.7237
- 1980 1990  0.4958  0.5337  0.5144
- 1990 2000  0.8547  0.9230  0.8882
- 2000 2010  0.8937  0.8999  0.8968
+ 1960 1970  0.6676  0.6830  0.6753
+ 1970 1980  0.6617  0.8116  0.7328
+ 1980 1990  0.4939  0.5492  0.5208
+ 1990 2000  0.8445  0.9254  0.8840
+ 2000 2010  0.8935  0.9044  0.8990
  
 EarningsBM
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  0.9460  0.8378  0.8902
- 1970 1980  0.6268  0.7368  0.6796
- 1980 1990  0.4992  0.5626  0.5300
- 1990 2000  0.8941  0.9789  0.9355
- 2000 2010  0.9640  0.9546  0.9593
+ 1960 1970  0.9349  0.8584  0.8959
+ 1970 1980  0.6056  0.7727  0.6840
+ 1980 1990  0.4943  0.5771  0.5341
+ 1990 2000  0.8868  0.9883  0.9361
+ 2000 2010  0.9528  0.9501  0.9515
  
 EarningsBW
  
 Yearto Year   gInit  gFinal  GeoAvg
 ----------------------------------
- 1960 1970  1.1203  0.9784  1.0470
- 1970 1980  1.1667  1.1734  1.1701
- 1980 1990  0.8637  0.8576  0.8606
- 1990 2000  0.9803  0.9775  0.9789
- 2000 2010  1.0221  0.9944  1.0081
+ 1960 1970  1.1419  1.0137  1.0759
+ 1970 1980  1.1432  1.1792  1.1611
+ 1980 1990  0.8446  0.8545  0.8495
+ 1990 2000  1.0041  1.0039  1.0040
+ 2000 2010  1.0137  0.9940  1.0038
  
 Cumulative growth from changes:
-GDP per person =   0.8257
-GDP per worker =   1.0540
-Labor Force Participation (LFP) =   0.7834
-Earnings =   0.2923
-EarningsAll =   0.3399
-ConsumpYoung (market) =   0.2899
-WageGapWW =   0.2832
-WageGapBM =   0.5461
-WageGapBW =   1.1166
-WageGapAllWW =   0.2264
-WageGapAllBM =   0.3552
-WageGapAllBW =   1.0630
-EarningsWM =   0.9846
-EarningsWW =   0.1987
-EarningsBM =   0.2877
-EarningsBW =   1.0405
+GDP per person =   0.8403
+GDP per worker =   1.0722
+Labor Force Participation (LFP) =   0.7837
+Earnings =   0.2982
+EarningsAll =   0.3484
+ConsumpYoung (market) =   0.2914
+WageGapWW =   0.2888
+WageGapBM =   0.5689
+WageGapBW =   1.1010
+WageGapAllWW =   0.2334
+WageGapAllBM =   0.3630
+WageGapAllBW =   1.0697
+EarningsWM =   0.9843
+EarningsWW =   0.2048
+EarningsBM =   0.2915
+EarningsBW =   1.0695
  
  
 ///////////////////////////// KEY RESULT //////////////////////////////
  
 GDP per person
-      Average annual growth of baseline (model) measure:   3.5424
-        Average annual growth due to changing Both+ZTgHome      :  -0.3830
-                         >>>>>   Share accounted for by Both+ZTgHome is  -10.8 percent  <<<<<
+      Average annual growth of baseline (model) measure:   3.5654
+        Average annual growth due to changing Both+ZTgHome      :  -0.3480
+                         >>>>>   Share accounted for by Both+ZTgHome is   -9.8 percent  <<<<<
  
 GDP per worker
-      Average annual growth of baseline (model) measure:   3.1832
-        Average annual growth due to changing Both+ZTgHome      :   0.1052
-                         >>>>>   Share accounted for by Both+ZTgHome is    3.3 percent  <<<<<
+      Average annual growth of baseline (model) measure:   3.1650
+        Average annual growth due to changing Both+ZTgHome      :   0.1394
+                         >>>>>   Share accounted for by Both+ZTgHome is    4.4 percent  <<<<<
  
 Labor Force Participation (LFP)
-      Average annual growth of baseline (model) measure:   0.3592
-        Average annual growth due to changing Both+ZTgHome      :  -0.4882
-                         >>>>>   Share accounted for by Both+ZTgHome is -135.9 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.4004
+        Average annual growth due to changing Both+ZTgHome      :  -0.4874
+                         >>>>>   Share accounted for by Both+ZTgHome is -121.7 percent  <<<<<
  
 Earnings
-      Average annual growth of baseline (model) measure:   1.7202
-        Average annual growth due to changing Both+ZTgHome      :  -2.4603
-                         >>>>>   Share accounted for by Both+ZTgHome is -143.0 percent  <<<<<
+      Average annual growth of baseline (model) measure:   1.7370
+        Average annual growth due to changing Both+ZTgHome      :  -2.4203
+                         >>>>>   Share accounted for by Both+ZTgHome is -139.3 percent  <<<<<
  
 EarningsAll
-      Average annual growth of baseline (model) measure:   1.7572
-        Average annual growth due to changing Both+ZTgHome      :  -2.1584
-                         >>>>>   Share accounted for by Both+ZTgHome is -122.8 percent  <<<<<
+      Average annual growth of baseline (model) measure:   1.7603
+        Average annual growth due to changing Both+ZTgHome      :  -2.1090
+                         >>>>>   Share accounted for by Both+ZTgHome is -119.8 percent  <<<<<
  
 ConsumpYoung (market)
-      Average annual growth of baseline (model) measure:   2.1704
-        Average annual growth due to changing Both+ZTgHome      :  -2.4763
-                         >>>>>   Share accounted for by Both+ZTgHome is -114.1 percent  <<<<<
+      Average annual growth of baseline (model) measure:   2.3735
+        Average annual growth due to changing Both+ZTgHome      :  -2.4662
+                         >>>>>   Share accounted for by Both+ZTgHome is -103.9 percent  <<<<<
  
 WageGapWW
-      Average annual growth of baseline (model) measure:  -1.2549
-        Average annual growth due to changing Both+ZTgHome      :  -2.5229
-                         >>>>>   Share accounted for by Both+ZTgHome is  201.0 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -1.2219
+        Average annual growth due to changing Both+ZTgHome      :  -2.4839
+                         >>>>>   Share accounted for by Both+ZTgHome is  203.3 percent  <<<<<
  
 WageGapBM
-      Average annual growth of baseline (model) measure:  -0.2792
-        Average annual growth due to changing Both+ZTgHome      :  -1.2100
-                         >>>>>   Share accounted for by Both+ZTgHome is  433.3 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -0.2629
+        Average annual growth due to changing Both+ZTgHome      :  -1.1282
+                         >>>>>   Share accounted for by Both+ZTgHome is  429.1 percent  <<<<<
  
 WageGapBW
-      Average annual growth of baseline (model) measure:   0.6685
-        Average annual growth due to changing Both+ZTgHome      :   0.2207
-                         >>>>>   Share accounted for by Both+ZTgHome is   33.0 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.6777
+        Average annual growth due to changing Both+ZTgHome      :   0.1925
+                         >>>>>   Share accounted for by Both+ZTgHome is   28.4 percent  <<<<<
  
 WageGapAllWW
-      Average annual growth of baseline (model) measure:  -2.3039
-        Average annual growth due to changing Both+ZTgHome      :  -2.9711
-                         >>>>>   Share accounted for by Both+ZTgHome is  129.0 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -2.3143
+        Average annual growth due to changing Both+ZTgHome      :  -2.9096
+                         >>>>>   Share accounted for by Both+ZTgHome is  125.7 percent  <<<<<
  
 WageGapAllBM
-      Average annual growth of baseline (model) measure:  -1.5297
-        Average annual growth due to changing Both+ZTgHome      :  -2.0703
-                         >>>>>   Share accounted for by Both+ZTgHome is  135.3 percent  <<<<<
+      Average annual growth of baseline (model) measure:  -1.5440
+        Average annual growth due to changing Both+ZTgHome      :  -2.0267
+                         >>>>>   Share accounted for by Both+ZTgHome is  131.3 percent  <<<<<
  
 WageGapAllBW
-      Average annual growth of baseline (model) measure:   0.3523
-        Average annual growth due to changing Both+ZTgHome      :   0.1221
-                         >>>>>   Share accounted for by Both+ZTgHome is   34.7 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.3370
+        Average annual growth due to changing Both+ZTgHome      :   0.1348
+                         >>>>>   Share accounted for by Both+ZTgHome is   40.0 percent  <<<<<
  
 EarningsWM
-      Average annual growth of baseline (model) measure:   3.6683
-        Average annual growth due to changing Both+ZTgHome      :  -0.0310
-                         >>>>>   Share accounted for by Both+ZTgHome is   -0.8 percent  <<<<<
+      Average annual growth of baseline (model) measure:   3.6970
+        Average annual growth due to changing Both+ZTgHome      :  -0.0317
+                         >>>>>   Share accounted for by Both+ZTgHome is   -0.9 percent  <<<<<
  
 EarningsWW
-      Average annual growth of baseline (model) measure:   0.9352
-        Average annual growth due to changing Both+ZTgHome      :  -3.2315
-                         >>>>>   Share accounted for by Both+ZTgHome is -345.5 percent  <<<<<
+      Average annual growth of baseline (model) measure:   0.9561
+        Average annual growth due to changing Both+ZTgHome      :  -3.1715
+                         >>>>>   Share accounted for by Both+ZTgHome is -331.7 percent  <<<<<
  
 EarningsBM
-      Average annual growth of baseline (model) measure:   2.5447
-        Average annual growth due to changing Both+ZTgHome      :  -2.4914
-                         >>>>>   Share accounted for by Both+ZTgHome is  -97.9 percent  <<<<<
+      Average annual growth of baseline (model) measure:   2.5644
+        Average annual growth due to changing Both+ZTgHome      :  -2.4654
+                         >>>>>   Share accounted for by Both+ZTgHome is  -96.1 percent  <<<<<
  
 EarningsBW
-      Average annual growth of baseline (model) measure:   4.8063
-        Average annual growth due to changing Both+ZTgHome      :   0.0794
-                         >>>>>   Share accounted for by Both+ZTgHome is    1.7 percent  <<<<<
+      Average annual growth of baseline (model) measure:   4.8362
+        Average annual growth due to changing Both+ZTgHome      :   0.1344
+                         >>>>>   Share accounted for by Both+ZTgHome is    2.8 percent  <<<<<

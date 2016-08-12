@@ -10,8 +10,6 @@
 %  and *.ps and *.eps for figures. 
 
 
-
-
 % Benchmark
 tic
 clear all; global CaseName;
